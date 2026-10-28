@@ -1,0 +1,2522 @@
+{
+  "meta": {
+    "subject": "Vật lý",
+    "source": "Ma trận + Đề cương KTGKI - Có đáp án.docx",
+    "generated": "2026-10-28"
+  },
+  "mcq": [
+    {
+      "id": "mcq-001",
+      "srcNo": 1,
+      "topic": null,
+      "q": "Gọi x, y và z lần lượt là khoảng cách trung bình giữa các phân tử của một chất ở thể rắn, lỏng và khí. Hệ thức đúng là",
+      "images": [],
+      "formulaImages": [],
+      "options": [
+        "z < y < x.",
+        "x < z < y.",
+        "y < x < z.",
+        "x < y < z."
+      ],
+      "answer": 3,
+      "needsReview": false
+    },
+    {
+      "id": "mcq-002",
+      "srcNo": 2,
+      "topic": null,
+      "q": "Vật ở thể lỏng có",
+      "images": [],
+      "formulaImages": [],
+      "options": [
+        "thể tích và hình dạng riêng, khó nén.",
+        "thể tích và hình dạng riêng, dễ nén.",
+        "thể tích riêng nhưng không có hình dạng riêng, khó nén.",
+        "thể tích riêng nhưng không có hình dạng riêng, dễ nén."
+      ],
+      "answer": 2,
+      "needsReview": false
+    },
+    {
+      "id": "mcq-003",
+      "srcNo": 3,
+      "topic": null,
+      "q": "Hiện tượng nào sau đây không thể hiện rõ thuyết động học phân tử?",
+      "images": [],
+      "formulaImages": [],
+      "options": [
+        "Không khí nóng thì nổi lên cao, không khí lạnh chìm xuống trong bầu khí quyển",
+        "Mùi nước hoa lan tỏa trong một căn phòng kín.",
+        "Chuyển động hỗn loạn của các hạt phấn hoa trong nước yên lặng.",
+        "Cốc nước được nhỏ mực, sau một thời gian có màu đồng nhất."
+      ],
+      "answer": 0,
+      "needsReview": false
+    },
+    {
+      "id": "mcq-004",
+      "srcNo": 4,
+      "topic": null,
+      "q": "Chất rắn có đặc điểm cấu trúc nào sau đây?",
+      "images": [],
+      "formulaImages": [],
+      "options": [
+        "Các phân tử ở xa nhau và chuyển động hỗn loạn.",
+        "Các phân tử nằm sát nhau và dao động quanh vị trí cân bằng.",
+        "Các phân tử tự do chuyển động tịnh tiến.",
+        "Các phân tử có thể dễ dàng thay đổi vị trí tương đối."
+      ],
+      "answer": 1,
+      "needsReview": false
+    },
+    {
+      "id": "mcq-005",
+      "srcNo": 5,
+      "topic": null,
+      "q": "Nguyên nhân làm cho chất rắn có hình dạng xác định là do",
+      "images": [],
+      "formulaImages": [],
+      "options": [
+        "lực liên kết giữa các phân tử rất nhỏ.",
+        "khoảng cách giữa các phân tử rất lớn.",
+        "lực liên kết giữa các phân tử rất lớn.",
+        "các phân tử chuyển động hỗn loạn."
+      ],
+      "answer": 2,
+      "needsReview": false
+    },
+    {
+      "id": "mcq-006",
+      "srcNo": 6,
+      "topic": null,
+      "q": "So với chất rắn, các phân tử trong chất lỏng có đặc điểm",
+      "images": [],
+      "formulaImages": [],
+      "options": [
+        "gắn chặt hơn và không chuyển động.",
+        "xa nhau hơn và có thể trượt lên nhau.",
+        "ở xa nhau và không có lực hút.",
+        "không có vị trí cân bằng."
+      ],
+      "answer": 1,
+      "needsReview": false
+    },
+    {
+      "id": "mcq-007",
+      "srcNo": 7,
+      "topic": null,
+      "q": "Trong chất khí, lực tương tác giữa các phân tử là",
+      "images": [],
+      "formulaImages": [],
+      "options": [
+        "rất lớn, nên khí khó nén.",
+        "trung bình, tương đương chất lỏng.",
+        "rất nhỏ, chỉ đáng kể khi các phân tử va chạm.",
+        "bằng không trong mọi trường hợp."
+      ],
+      "answer": 2,
+      "needsReview": false
+    },
+    {
+      "id": "mcq-008",
+      "srcNo": 8,
+      "topic": null,
+      "q": "Khi tăng nhiệt độ của chất khí, đại lượng nào sau đây tăng?",
+      "images": [],
+      "formulaImages": [],
+      "options": [
+        "Lực hút giữa các phân tử.",
+        "Khối lượng riêng của khí.",
+        "Vận tốc trung bình của các phân tử khí.",
+        "Số phân tử khí trong một đơn vị thể tích."
+      ],
+      "answer": 2,
+      "needsReview": false
+    },
+    {
+      "id": "mcq-009",
+      "srcNo": 9,
+      "topic": null,
+      "q": "Trong ba trạng thái rắn, lỏng, khí, trạng thái nào có thể tích xác định?",
+      "images": [],
+      "formulaImages": [],
+      "options": [
+        "Chỉ chất rắn.",
+        "Chất rắn và chất lỏng.",
+        "Chỉ chất lỏng.",
+        "Cả ba đều có thể tích xác định."
+      ],
+      "answer": 1,
+      "needsReview": false
+    },
+    {
+      "id": "mcq-010",
+      "srcNo": 10,
+      "topic": null,
+      "q": "Khi chất rắn nóng chảy thành chất lỏng thì",
+      "images": [],
+      "formulaImages": [],
+      "options": [
+        "lực liên kết giữa các phân tử tăng lên.",
+        "các phân tử ngừng dao động.",
+        "khoảng cách giữa các phân tử tăng, lực liên kết giảm.",
+        "các phân tử chuyển động chậm lại."
+      ],
+      "answer": 2,
+      "needsReview": false
+    },
+    {
+      "id": "mcq-011",
+      "srcNo": 11,
+      "topic": null,
+      "q": "Dụng cụ nào sau đây không cần thiết trong thí nghiệm đo nhiệt dung riêng của nước?",
+      "images": [],
+      "formulaImages": [],
+      "options": [
+        "Nhiệt kế.",
+        "Cân.",
+        "Oát kế.",
+        "Ampe kế."
+      ],
+      "answer": 3,
+      "needsReview": false
+    },
+    {
+      "id": "mcq-012",
+      "srcNo": 12,
+      "topic": null,
+      "q": "Khi nén khí trong xilanh, thể tích giảm là do",
+      "images": [],
+      "formulaImages": [],
+      "options": [
+        "số lượng phân tử giảm.",
+        "khoảng cách giữa các phân tử giảm.",
+        "lực hút giữa các phân tử giảm.",
+        "khối lượng riêng của khí giảm."
+      ],
+      "answer": 1,
+      "needsReview": false
+    },
+    {
+      "id": "mcq-013",
+      "srcNo": 13,
+      "topic": null,
+      "q": "Giữa các phân tử chất rắn",
+      "images": [],
+      "formulaImages": [],
+      "options": [
+        "không có khoảng cách.",
+        "có lực hút và lực đẩy.",
+        "có khoảng cách rất xa.",
+        "có lực hút, không có lực đẩy."
+      ],
+      "answer": 1,
+      "needsReview": false
+    },
+    {
+      "id": "mcq-014",
+      "srcNo": 14,
+      "topic": null,
+      "q": "Hiện tượng nào sau đây là sự nóng chảy?",
+      "images": [],
+      "formulaImages": [],
+      "options": [
+        "Nước biến thành hơi nước khi đun sôi.",
+        "Hơi nước ngưng tụ thành nước.",
+        "Băng tan thành nước khi để ngoài không khí.",
+        "Sương đọng trên lá cây."
+      ],
+      "answer": 2,
+      "needsReview": false
+    },
+    {
+      "id": "mcq-015",
+      "srcNo": 15,
+      "topic": null,
+      "q": "Nhiệt độ nóng chảy của một chất là nhiệt độ mà tại đó",
+      "images": [],
+      "formulaImages": [],
+      "options": [
+        "chất bắt đầu đông đặc.",
+        "chất rắn chuyển hoàn toàn sang lỏng.",
+        "chất rắn và chất lỏng cùng tồn tại trong cân bằng.",
+        "chất rắn bắt đầu nóng lên."
+      ],
+      "answer": 2,
+      "needsReview": false
+    },
+    {
+      "id": "mcq-016",
+      "srcNo": 16,
+      "topic": null,
+      "q": "Khi băng đang tan thành nước ở 0°C, nếu tiếp tục cung cấp nhiệt lượng thì",
+      "images": [],
+      "formulaImages": [],
+      "options": [
+        "nhiệt độ tăng lên nhanh.",
+        "nhiệt độ giảm dần.",
+        "nhiệt độ không đổi cho đến khi tan hết.",
+        "băng đông lại."
+      ],
+      "answer": 2,
+      "needsReview": false
+    },
+    {
+      "id": "mcq-017",
+      "srcNo": 17,
+      "topic": null,
+      "q": "Khi đun nước, sau một thời gian nước bắt đầu sôi. Trong quá trình sôi",
+      "images": [],
+      "formulaImages": [],
+      "options": [
+        "nhiệt độ nước tiếp tục tăng.",
+        "nhiệt độ nước không đổi.",
+        "nhiệt độ nước giảm.",
+        "ap suất hơi giảm."
+      ],
+      "answer": 1,
+      "needsReview": false
+    },
+    {
+      "id": "mcq-018",
+      "srcNo": 18,
+      "topic": null,
+      "q": "Khi nước sôi ở 100°C (áp suất chuẩn), nếu tiếp tục đun thì",
+      "images": [],
+      "formulaImages": [],
+      "options": [
+        "nhiệt độ tăng, thể tích giảm.",
+        "nhiệt độ không đổi, nước chuyển dần thành hơi.",
+        "nhiệt độ giảm, áp suất tăng.",
+        "nước ngưng tụ trở lại."
+      ],
+      "answer": 1,
+      "needsReview": false
+    },
+    {
+      "id": "mcq-019",
+      "srcNo": 19,
+      "topic": null,
+      "q": "Hiện tượng mồ hôi bốc hơi làm mát cơ thể là do",
+      "images": [],
+      "formulaImages": [],
+      "options": [
+        "khi hóa hơi, nước tỏa nhiệt ra môi trường.",
+        "khi hóa hơi, nước thu nhiệt của cơ thể để bay hơi.",
+        "khi hóa hơi, nhiệt độ cơ thể tăng.",
+        "khi hóa hơi, năng lượng phân tử nước giảm."
+      ],
+      "answer": 1,
+      "needsReview": false
+    },
+    {
+      "id": "mcq-020",
+      "srcNo": 20,
+      "topic": null,
+      "q": "Khi nấu nước, nếu để lửa nhỏ để nước sôi đều mà không trào ra ngoài là do",
+      "images": [],
+      "formulaImages": [],
+      "options": [
+        "giảm nhiệt độ sôi của nước.",
+        "giảm tốc độ bay hơi.",
+        "nhiệt độ không đổi nhưng tốc độ cung cấp nhiệt vừa đủ bù cho nhiệt lượng bay hơi.",
+        "áp suất trong nồi tăng cao."
+      ],
+      "answer": 2,
+      "needsReview": false
+    },
+    {
+      "id": "mcq-021",
+      "srcNo": 21,
+      "topic": null,
+      "q": "Khi mở nắp chai nước hoa, ta ngửi thấy mùi lan tỏa ra nhanh là vì",
+      "images": [],
+      "formulaImages": [],
+      "options": [
+        "nhiệt độ làm tăng áp suất.",
+        "các phân tử chất bay hơi khuếch tán nhanh trong không khí.",
+        "chai bị rò rỉ khí nén.",
+        "không khí có lực đẩy phân tử nước hoa ra ngoài."
+      ],
+      "answer": 1,
+      "needsReview": false
+    },
+    {
+      "id": "mcq-022",
+      "srcNo": 22,
+      "topic": null,
+      "q": "Hiện tượng đọng sương vào buổi sáng sớm là do",
+      "images": [],
+      "formulaImages": [],
+      "options": [
+        "không khí ẩm được đun nóng.",
+        "hơi nước trong không khí ngưng tụ khi gặp lạnh.",
+        "hơi nước hóa hơi nhanh hơn vào sáng sớm.",
+        "không khí giảm áp suất làm nước kết tinh."
+      ],
+      "answer": 1,
+      "needsReview": false
+    },
+    {
+      "id": "mcq-023",
+      "srcNo": 23,
+      "topic": null,
+      "q": "Hình dưới là đồ thị phác họa sự thay đổi nhiệt độ theo thời gian trong quá trình chuyển thể từ rắn sang lỏng của chất rắn kết tinh và của chất rắn vô định hình tương ứng lần lượt là",
+      "images": [
+        "/img/mcq-023_1.png"
+      ],
+      "formulaImages": [],
+      "options": [
+        "đường (3) và đường (2).",
+        "đường (1) và đường (2).",
+        "đường (2) và đường (3).",
+        "đường (3) và đường (1)."
+      ],
+      "answer": 0,
+      "needsReview": false
+    },
+    {
+      "id": "mcq-024",
+      "srcNo": 24,
+      "topic": null,
+      "q": "Cồn y tế chuyển từ thể lỏng sang thể khí rất nhanh ở điều kiện thông thường. Khi xoa cồn vào da, ta cảm thấy lạnh ở vùng da đó vì cồn",
+      "images": [],
+      "formulaImages": [],
+      "options": [
+        "thu nhiệt lượng từ cơ thể qua chỗ da đó để bay hơi.",
+        "khi bay hơi toả nhiệt lượng vào chỗ da đó.",
+        "khi bay hơi kéo theo lượng nước chỗ da đó ra khỏi cơ thể.",
+        "khi bay hơi tạo ra dòng nước mát tại chỗ da đó."
+      ],
+      "answer": 0,
+      "needsReview": false
+    },
+    {
+      "id": "mcq-025",
+      "srcNo": 25,
+      "topic": null,
+      "q": "Nhiệt lượng được truyền vào hỗn hợp nước đá để làm tan chảy một phần nước đá. Trong quá trình này, hỗn hợp nước đá",
+      "images": [],
+      "formulaImages": [],
+      "options": [
+        "thực hiện công.",
+        "có nhiệt độ tăng lên.",
+        "có nội năng tăng lên.",
+        "có nội năng giảm."
+      ],
+      "answer": 2,
+      "needsReview": false
+    },
+    {
+      "id": "mcq-026",
+      "srcNo": 26,
+      "topic": null,
+      "q": "Một khối chất (có thể là chất rắn kết tinh, hoặc chất lỏng, hoặc chất khí) đang nhận nhiệt lượng nhưng nhiệt độ của nó không thay đổi. Khối chất đó",
+      "images": [],
+      "formulaImages": [],
+      "options": [
+        "là chất khí.",
+        "là chất lỏng.",
+        "là chất rắn.",
+        "đang chuyển thể."
+      ],
+      "answer": 3,
+      "needsReview": false
+    },
+    {
+      "id": "mcq-027",
+      "srcNo": 27,
+      "topic": null,
+      "q": "Nội năng của một vật là",
+      "images": [],
+      "formulaImages": [],
+      "options": [
+        "tổng thế năng và động năng của vật.",
+        "tổng động năng của các phân tử cấu tạo nên vật.",
+        "tổng động năng và thế năng tương tác giữa các phân tử cấu tạo nên vật.",
+        "tổng động năng chuyển động của vật và của các phân tử."
+      ],
+      "answer": 2,
+      "needsReview": false
+    },
+    {
+      "id": "mcq-028",
+      "srcNo": 28,
+      "topic": null,
+      "q": "Trong các cách sau, cách nào làm thay đổi nội năng của vật?",
+      "images": [],
+      "formulaImages": [],
+      "options": [
+        "Giữ vật cố định, không cho nó trao đổi nhiệt.",
+        "Đặt vật trong môi trường có cùng nhiệt độ.",
+        "Cọ xát vật bằng tay.",
+        "Giữ vật trong trạng thái cân bằng nhiệt."
+      ],
+      "answer": 2,
+      "needsReview": false
+    },
+    {
+      "id": "mcq-029",
+      "srcNo": 29,
+      "topic": null,
+      "q": "Nội năng của một vật phụ thuộc chủ yếu vào yếu tố nào?",
+      "images": [],
+      "formulaImages": [],
+      "options": [
+        "Khối lượng và vận tốc của vật.",
+        "Nhiệt độ và trạng thái cấu trúc của vật.",
+        "Thế năng trọng trường.",
+        "Lực ma sát tác dụng lên vật."
+      ],
+      "answer": 1,
+      "needsReview": false
+    },
+    {
+      "id": "mcq-030",
+      "srcNo": 30,
+      "topic": null,
+      "q": "Phát biểu nào sau đây đúng với Định luật I nhiệt động lực học?",
+      "images": [],
+      "formulaImages": [],
+      "options": [
+        "Nhiệt lượng luôn bằng công mà vật thực hiện.",
+        "Nhiệt lượng bằng tổng công và độ biến thiên nội năng.",
+        "Độ biến thiên nội năng bằng công vật thực hiện trừ đi nhiệt lượng.",
+        "Độ biến thiên nội năng bằng nhiệt lượng mà vật nhận được cộng với công mà ngoại lực thực hiện."
+      ],
+      "answer": 3,
+      "needsReview": false
+    },
+    {
+      "id": "mcq-031",
+      "srcNo": 31,
+      "topic": null,
+      "q": "Biểu thức của Định luật I nhiệt động lực học là",
+      "images": [],
+      "formulaImages": [],
+      "options": [
+        "Q=A+ΔU.",
+        "ΔU=Q+A.",
+        "ΔU=Q−A.",
+        "Q=ΔU+A."
+      ],
+      "answer": 1,
+      "needsReview": false
+    },
+    {
+      "id": "mcq-032",
+      "srcNo": 32,
+      "topic": null,
+      "q": "Một khí nhận nhiệt lượng 500 J và thực hiện công 200 J thì độ biến thiên nội năng của khí là",
+      "images": [],
+      "formulaImages": [],
+      "options": [
+        "300 J.",
+        "700 J.",
+        "−300 J.",
+        "200 J."
+      ],
+      "answer": 0,
+      "needsReview": false
+    },
+    {
+      "id": "mcq-033",
+      "srcNo": 33,
+      "topic": null,
+      "q": "Một khí bị nén, công của lực ngoài là 400 J, nội năng tăng thêm 250 J khi đó",
+      "images": [],
+      "formulaImages": [],
+      "options": [
+        "khí nhận nhiệt lượng 650 J.",
+        "khí truyền nhiệt lượng ra môi trường xung quanh 150 J.",
+        "khí nhận nhiệt lượng 150.",
+        "khí truyền nhiệt lượng ra môi trường xung quanh 650 J."
+      ],
+      "answer": 1,
+      "needsReview": false
+    },
+    {
+      "id": "mcq-034",
+      "srcNo": 34,
+      "topic": null,
+      "q": "Trong quá trình khí lý tưởng thực hiện công 300 J và tỏa ra môi trường nhiệt lượng 200 J thì nội năng của khí",
+      "images": [],
+      "formulaImages": [],
+      "options": [
+        "tăng 100 J.",
+        "giảm 500 J.",
+        "tăng 500 J.",
+        "giảm 100 J."
+      ],
+      "answer": 1,
+      "needsReview": false
+    },
+    {
+      "id": "mcq-035",
+      "srcNo": 35,
+      "topic": null,
+      "q": "Nếu thực hiện công 100J để nén khí trong một xi lanh thì khí truyền ra môi trường xung quanh nhiệt lượng 30 J .Xác định độ thay đổi nội năng của khí trong xi lanh.",
+      "images": [],
+      "formulaImages": [],
+      "options": [
+        "50 J.",
+        "60 J.",
+        "30 J.",
+        "70 J."
+      ],
+      "answer": 3,
+      "needsReview": false
+    },
+    {
+      "id": "mcq-036",
+      "srcNo": 36,
+      "topic": null,
+      "q": "Phát biểu nào sau đây là đúng?",
+      "images": [],
+      "formulaImages": [],
+      "options": [
+        "Nội năng của một hệ nhất định phải có thế năng tương tác giữa các hạt cấu tạo nên hệ.",
+        "Nhiệt lượng truyền cho hệ chỉ làm tăng tổng động năng của chuyển động nhiệt của các hạt cấu tạo nên hệ.",
+        "Công mà hệ nhận được có thể làm thay đổi cả tổng động năng chuyển động nhiệt của các hạt cấu tạo nên hệ và thế năng tương tác giữa chúng.",
+        "Nói chung, nội năng là hàm của nhiệt độ và thể tích, nên nếu thể tich của hệ đã thay đổi thì nội năng của hệ phải thay đổi."
+      ],
+      "answer": 2,
+      "needsReview": false
+    },
+    {
+      "id": "mcq-037",
+      "srcNo": 37,
+      "topic": null,
+      "q": "Một quả bóng có khối lượng 100 g rơi từ độ cao 10 m xuống sân và nảy lên được 7 m. Sở dĩ bóng không nảy lên được tới độ cao ban đầu là vì một phần cơ năng của quả bóng đã chuyển hoá thành nội năng của",
+      "images": [],
+      "formulaImages": [],
+      "options": [
+        "chỉ quả bóng và của sân.",
+        "chỉ quả bóng và không khí.",
+        "chỉ mỗi sân và không khí.",
+        "quả bóng, mặt sân và không khí."
+      ],
+      "answer": 3,
+      "needsReview": false
+    },
+    {
+      "id": "mcq-038",
+      "srcNo": 38,
+      "topic": null,
+      "q": "Khi nói đến nhiệt độ của một vật ta thường nghĩ đến cảm giác “nóng” và \"lạnh\" của vật nhưng đó chỉ là tương đối vì cảm giác mang tính chủ quan. Cảm giác nóng, lạnh mà chúng ta cảm nhận được khi tiếp xúc với vật liên quan đến",
+      "images": [],
+      "formulaImages": [],
+      "options": [
+        "năng lượng nhiệt của các phân tử.",
+        "khối lượng của vật.",
+        "trọng lượng riêng của vật.",
+        "động năng chuyển động của vật."
+      ],
+      "answer": 0,
+      "needsReview": false
+    },
+    {
+      "id": "mcq-039",
+      "srcNo": 39,
+      "topic": null,
+      "q": "Chọn câu sai khi nói về một cốc nước để yên trên bàn.",
+      "images": [],
+      "formulaImages": [],
+      "options": [
+        "Cốc nước có mang năng lượng.",
+        "Cốc nước cấu tạo từ các phân tử nước.",
+        "Nước trong cốc có thể bay hơi.",
+        "Nước trong cốc có thể tự sôi."
+      ],
+      "answer": 3,
+      "needsReview": false
+    },
+    {
+      "id": "mcq-040",
+      "srcNo": 40,
+      "topic": null,
+      "q": "Hai viên bi sắt cùng khối lượng riêng, có khối lượng 200g và 100g đặt trên bàn thì nhận xét nào sau đây là sai?",
+      "images": [],
+      "formulaImages": [],
+      "options": [
+        "Bi 200g có năng lượng nhiều hơn bi 100g.",
+        "Cả hai bi đều có năng lượng.",
+        "Bi 200g có thể tích lớn hơn bi 100g.",
+        "Bi 200g có nhiệt độ cao hơn bi 100g."
+      ],
+      "answer": 3,
+      "needsReview": false
+    },
+    {
+      "id": "mcq-041",
+      "srcNo": 41,
+      "topic": null,
+      "q": "Khi phơi miếng kim loại ngoài trời thì nó nóng lên. Phần năng lượng nó nhận được từ Mặt Trời gọi là",
+      "images": [],
+      "formulaImages": [],
+      "options": [
+        "nhiệt lượng.",
+        "nội năng.",
+        "công.",
+        "nhiệt độ."
+      ],
+      "answer": 0,
+      "needsReview": false
+    },
+    {
+      "id": "mcq-042",
+      "srcNo": 42,
+      "topic": null,
+      "q": "Đại lượng nào sau đây không có giá trị âm?",
+      "images": [],
+      "formulaImages": [],
+      "options": [
+        "Nhiệt lượng.",
+        "Công.",
+        "Độ biến thiên nội năng.",
+        "Động năng."
+      ],
+      "answer": 3,
+      "needsReview": false
+    },
+    {
+      "id": "mcq-043",
+      "srcNo": 43,
+      "topic": null,
+      "q": "Đại lượng nào sau đây không phải là năng lượng?",
+      "images": [],
+      "formulaImages": [],
+      "options": [
+        "Nhiệt lượng.",
+        "Nhiệt độ.",
+        "Nội năng.",
+        "Động năng."
+      ],
+      "answer": 1,
+      "needsReview": false
+    },
+    {
+      "id": "mcq-044",
+      "srcNo": 44,
+      "topic": null,
+      "q": "Vật có nội năng thì không nhất thiết phải có",
+      "images": [],
+      "formulaImages": [],
+      "options": [
+        "nhiệt lượng.",
+        "nhiệt độ.",
+        "thể tích.",
+        "phân tử."
+      ],
+      "answer": 0,
+      "needsReview": false
+    },
+    {
+      "id": "mcq-045",
+      "srcNo": 45,
+      "topic": null,
+      "q": "Nội năng của vật chỉ phụ thuộc",
+      "images": [],
+      "formulaImages": [],
+      "options": [
+        "nhiệt độ.",
+        "thể tích.",
+        "khối lượng.",
+        "nhiệt độ và thể tích."
+      ],
+      "answer": 3,
+      "needsReview": false
+    },
+    {
+      "id": "mcq-046",
+      "srcNo": 46,
+      "topic": null,
+      "q": "Người ta dùng búa đóng cây đinh làm cây đinh nóng lên. Trong quá trình đóng đinh thì",
+      "images": [],
+      "formulaImages": [],
+      "options": [
+        "nhiệt lượng của cây đinh Q>0.",
+        "nhiệt lượng của cây đinh Q<0.",
+        "nhiệt lượng của cây đinh =0.",
+        "nhiệt lượng của cây đinh rất lớn."
+      ],
+      "answer": 2,
+      "needsReview": false
+    },
+    {
+      "id": "mcq-047",
+      "srcNo": 47,
+      "topic": null,
+      "q": "Người ta dùng búa đóng cây đinh làm cây đinh nóng lên. Trong quá trình đóng đinh thì",
+      "images": [],
+      "formulaImages": [],
+      "options": [
+        "cây đinh nhận công nên A>0.",
+        "cây đinh thực hiện công nên A<0.",
+        "cây đinh nhận nhiệt lượng nên Q>0.",
+        "cây đinh tỏa nhiệt lượng nên Q<0."
+      ],
+      "answer": 0,
+      "needsReview": false
+    },
+    {
+      "id": "mcq-048",
+      "srcNo": 48,
+      "topic": null,
+      "q": "Khi đặt hai vật có nhiệt độ khác nhau tiếp xúc nhau, năng lượng nhiệt truyền",
+      "images": [],
+      "formulaImages": [],
+      "options": [
+        "từ vật có khối lượng lớn hơn sang vật nhỏ hơn.",
+        "từ vật có nhiệt độ cao hơn sang vật có nhiệt độ thấp hơn.",
+        "từ vật có nhiệt dung riêng nhỏ sang vật có nhiệt dung riêng lớn.",
+        "theo cả hai chiều cho đến khi cân bằng."
+      ],
+      "answer": 1,
+      "needsReview": false
+    },
+    {
+      "id": "mcq-049",
+      "srcNo": 49,
+      "topic": null,
+      "q": "Khi hai vật có nhiệt độ khác nhau tiếp xúc nhau, quá trình truyền nhiệt diễn ra cho đến khi",
+      "images": [],
+      "formulaImages": [],
+      "options": [
+        "năng lượng của hai vật bằng nhau.",
+        "khối lượng của hai vật bằng nhau.",
+        "nhiệt độ của hai vật bằng nhau.",
+        "thể tích của hai vật bằng nhau."
+      ],
+      "answer": 2,
+      "needsReview": false
+    },
+    {
+      "id": "mcq-050",
+      "srcNo": 50,
+      "topic": null,
+      "q": "Một vật ở 80°C đặt tiếp xúc với vật ở 30°C thì",
+      "images": [],
+      "formulaImages": [],
+      "options": [
+        "vật ở 30°C truyền nhiệt cho vật ở 80°C.",
+        "không có sự truyền nhiệt.",
+        "nhiệt truyền từ vật 80°C sang vật 30°C.",
+        "cả hai vật đều mất nhiệt."
+      ],
+      "answer": 2,
+      "needsReview": false
+    },
+    {
+      "id": "mcq-051",
+      "srcNo": 51,
+      "topic": null,
+      "q": "Khi hai vật ở cùng nhiệt độ tiếp xúc với nhau thì",
+      "images": [],
+      "formulaImages": [],
+      "options": [
+        "vật có khối lượng nhỏ nhận nhiệt của vật kia.",
+        "vật có nhiệt dung riêng lớn hơn nhận thêm nhiệt.",
+        "không có sự truyền năng lượng nhiệt giữa chúng.",
+        "năng lượng nhiệt vẫn truyền nhưng theo hai chiều."
+      ],
+      "answer": 2,
+      "needsReview": false
+    },
+    {
+      "id": "mcq-052",
+      "srcNo": 52,
+      "topic": null,
+      "q": "Phát biểu nào sau đây là đúng về chiều truyền năng lượng nhiệt giữa hai vật?",
+      "images": [],
+      "formulaImages": [],
+      "options": [
+        "Nhiệt luôn truyền từ vật có nhiều nội năng hơn sang vật có ít nội năng hơn.",
+        "Nhiệt luôn truyền từ vật có nhiệt độ cao hơn sang vật có nhiệt độ thấp hơn.",
+        "Nhiệt truyền từ vật có khối lượng nhỏ sang vật có khối lượng lớn.",
+        "Nhiệt truyền ngẫu nhiên, không phụ thuộc vào nhiệt độ."
+      ],
+      "answer": 1,
+      "needsReview": false
+    },
+    {
+      "id": "mcq-053",
+      "srcNo": 53,
+      "topic": null,
+      "q": "Một nhiệt kế có phạm vi đo từ 263 K đến 1273 K, dùng để đo nhiệt độ của các lò nung. Xác định phạm vi đo của nhiệt kế này trong thang nhiệt độ Celcius?",
+      "images": [],
+      "formulaImages": [],
+      "options": [
+        "-100C đến 1000C.",
+        "-100C đến 10000C.",
+        "00C đến 1000C.",
+        "00C đến 1000C."
+      ],
+      "answer": 1,
+      "needsReview": false
+    },
+    {
+      "id": "mcq-054",
+      "srcNo": 54,
+      "topic": null,
+      "q": "Một vật được làm lạnh từ $25^\\circ\\text{C}$ xuống $5^\\circ\\text{C}$. Nhiệt độ của vật theo thang Kelvin giảm đi bao nhiêu Kelvin?",
+      "images": [],
+      "formulaImages": [
+        "/img/formula/oleObject1.png",
+        "/img/formula/oleObject2.png"
+      ],
+      "options": [
+        "15 K.",
+        "20 K.",
+        "11 K.",
+        "18 K."
+      ],
+      "answer": 1,
+      "needsReview": true
+    },
+    {
+      "id": "mcq-055",
+      "srcNo": 55,
+      "topic": null,
+      "q": "Ở điều kiện chuẩn, nước tinh khiết sẽ sôi ở nhiệt độ",
+      "images": [],
+      "formulaImages": [],
+      "options": [
+        "100 0C.",
+        "100 K.",
+        "00C.",
+        "0 K."
+      ],
+      "answer": 0,
+      "needsReview": false
+    },
+    {
+      "id": "mcq-056",
+      "srcNo": 56,
+      "topic": null,
+      "q": "Ở điều kiện chuẩn, nước tinh khiết sẽ bay hơi ở nhiệt độ",
+      "images": [],
+      "formulaImages": [],
+      "options": [
+        "100 0C.",
+        "100 K.",
+        "00C.",
+        "> 00C."
+      ],
+      "answer": 3,
+      "needsReview": false
+    },
+    {
+      "id": "mcq-057",
+      "srcNo": 57,
+      "topic": null,
+      "q": "Chọn câu sai. Trong thang chia độ Celsius và Kelvil đều có",
+      "images": [],
+      "formulaImages": [],
+      "options": [
+        "Nhiệt độ sôi của nước.",
+        "nhiệt độ đóng băng của nước.",
+        "nhiệt độ âm.",
+        "nhiệt độ bằng 0."
+      ],
+      "answer": 2,
+      "needsReview": false
+    },
+    {
+      "id": "mcq-058",
+      "srcNo": 58,
+      "topic": null,
+      "q": "Một vật tăng nhiệt độ thêm 10C nghĩa là tăng thêm",
+      "images": [],
+      "formulaImages": [],
+      "options": [
+        "1 K.",
+        "273 K.",
+        "-273 K.",
+        "274 K."
+      ],
+      "answer": 0,
+      "needsReview": false
+    },
+    {
+      "id": "mcq-059",
+      "srcNo": 59,
+      "topic": null,
+      "q": "Trong thang nhiệt Celsius, mỗi độ chia (1°C) được xác định như thế nào?",
+      "images": [],
+      "formulaImages": [],
+      "options": [
+        "Là 1/273,16 khoảng cách giữa 0°C và 100°C.",
+        "Là 1/100 khoảng cách giữa nhiệt độ nước đá tan và nhiệt độ nước sôi (ở áp suất tiêu chuẩn).",
+        "Là 1/10 khoảng cách giữa điểm đóng băng và điểm sôi của nước.",
+        "Là hiệu giữa 0°C và 100°C."
+      ],
+      "answer": 1,
+      "needsReview": false
+    },
+    {
+      "id": "mcq-060",
+      "srcNo": 60,
+      "topic": null,
+      "q": "Nhiệt độ nước đá tan và nước sôi trong thang Celsius lần lượt là",
+      "images": [],
+      "formulaImages": [],
+      "options": [
+        "0°C và 100°C.",
+        "0 K và 100 K.",
+        "273 K và 373 K.",
+        "–273°C và 100°C."
+      ],
+      "answer": 0,
+      "needsReview": false
+    },
+    {
+      "id": "mcq-061",
+      "srcNo": 61,
+      "topic": null,
+      "q": "Trong thang nhiệt Kelvin, mỗi độ chia (1 K) được xác định như thế nào?",
+      "images": [],
+      "formulaImages": [],
+      "options": [
+        "Là 1/100 khoảng cách giữa 0 K và 273 K.",
+        "Là 1/273,16 khoảng cách giữa 0 K và nhiệt độ điểm ba của nước tinh khiết.",
+        "Là 1/1000 khoảng cách giữa 0°C và 100°C.",
+        "Là 1/273,16 của khoảng cách giữa 0°C và 100°C."
+      ],
+      "answer": 1,
+      "needsReview": false
+    },
+    {
+      "id": "mcq-062",
+      "srcNo": 62,
+      "topic": null,
+      "q": "Mối quan hệ giữa độ Kelvin và độ Celsius được biểu diễn bằng công thức nào sau đây?",
+      "images": [],
+      "formulaImages": [],
+      "options": [
+        "T(K) = t(°C) + 273",
+        "T(K) = t(°",
+        "+ 273,15 C. T(K) = t(°C) – 273T(K)",
+        "T(K) = t(°C) – 273,15T(K)"
+      ],
+      "answer": 1,
+      "needsReview": false
+    },
+    {
+      "id": "mcq-063",
+      "srcNo": 63,
+      "topic": null,
+      "q": "Khi nước tinh khiết đồng thời tồn tại ở ba thể (rắn, lỏng, hơi), nhiệt độ của nó trong thang Kelvin là",
+      "images": [],
+      "formulaImages": [],
+      "options": [
+        "0 K.",
+        "100 K.",
+        "273,16 K.",
+        "373 K."
+      ],
+      "answer": 2,
+      "needsReview": false
+    },
+    {
+      "id": "mcq-064",
+      "srcNo": 64,
+      "topic": null,
+      "q": "Nhiệt độ không tuyệt đối là",
+      "images": [],
+      "formulaImages": [],
+      "options": [
+        "nhiệt độ mà tại đó nước bắt đầu đóng băng.",
+        "nhiệt độ mà tại đó các phân tử ngừng chuyển động nhiệt.",
+        "nhiệt độ mà nội năng của vật đạt cực đại.",
+        "nhiệt độ 0°C."
+      ],
+      "answer": 1,
+      "needsReview": false
+    },
+    {
+      "id": "mcq-065",
+      "srcNo": 65,
+      "topic": null,
+      "q": "Giá trị của nhiệt độ không tuyệt đối trong thang Kelvin là",
+      "images": [],
+      "formulaImages": [],
+      "options": [
+        "0°C.",
+        "0 K.",
+        "–100 K.",
+        "–273 K."
+      ],
+      "answer": 1,
+      "needsReview": false
+    },
+    {
+      "id": "mcq-066",
+      "srcNo": 66,
+      "topic": null,
+      "q": "Ở nhiệt độ không tuyệt đối (0 K), nội năng của vật có đặc điểm nào sau đây?",
+      "images": [],
+      "formulaImages": [],
+      "options": [
+        "Đạt giá trị cực đại.",
+        "Bằng 0 hoặc gần bằng giá trị nhỏ nhất có thể.",
+        "Tăng không giới hạn.",
+        "Không đổi so với nhiệt độ cao hơn."
+      ],
+      "answer": 1,
+      "needsReview": false
+    },
+    {
+      "id": "mcq-067",
+      "srcNo": 67,
+      "topic": null,
+      "q": "Nhiệt độ không tuyệt đối có giá trị bằng bao nhiêu trong thang Celsius?",
+      "images": [],
+      "formulaImages": [],
+      "options": [
+        "–100°C.",
+        "–173°",
+        "C. –273,15°C.",
+        "–373°C."
+      ],
+      "answer": 2,
+      "needsReview": false
+    },
+    {
+      "id": "mcq-068",
+      "srcNo": 68,
+      "topic": null,
+      "q": "Ở nhiệt độ không tuyệt đối (0 K), nội năng của vật có đặc điểm nào sau đây?",
+      "images": [],
+      "formulaImages": [],
+      "options": [
+        "Đạt giá trị cực đại.",
+        "Bằng 0 hoặc gần bằng giá trị nhỏ nhất có thể.",
+        "Tăng không giới hạn.",
+        "Không đổi so với nhiệt độ cao hơn."
+      ],
+      "answer": 1,
+      "needsReview": false
+    },
+    {
+      "id": "mcq-069",
+      "srcNo": 69,
+      "topic": null,
+      "q": "Phát biểu nào sau đây đúng khi nói về nhiệt độ không tuyệt đối?",
+      "images": [],
+      "formulaImages": [],
+      "options": [
+        "Là nhiệt độ thấp nhất mà các chất có thể đạt được trong thực tế.",
+        "Là nhiệt độ mà tất cả các phân tử ngừng hoàn toàn mọi chuyển động.",
+        "Có thể đạt được dễ dàng bằng làm lạnh thông thường.",
+        "Là mốc dùng để xác định thang Celsius."
+      ],
+      "answer": 1,
+      "needsReview": false
+    },
+    {
+      "id": "mcq-070",
+      "srcNo": 70,
+      "topic": null,
+      "q": "Ở điều kiện tiêu chuẩn, nước sôi ở 100°C. Nhiệt độ này tương ứng với",
+      "images": [],
+      "formulaImages": [],
+      "options": [
+        "273 K.",
+        "100 K.",
+        "373 K.",
+        "273,15 K."
+      ],
+      "answer": 2,
+      "needsReview": false
+    },
+    {
+      "id": "mcq-071",
+      "srcNo": 71,
+      "topic": null,
+      "q": "Nhiệt dung riêng của một chất là đại lượng đặc trưng cho",
+      "images": [],
+      "formulaImages": [],
+      "options": [
+        "lượng nhiệt cần thiết để làm thay đổi nhiệt độ của 1 kg chất đó thêm 1°C (hay 1 K).",
+        "lượng nhiệt cần để làm tan chảy hoàn toàn 1 kg chất đó ở nhiệt độ xác định.",
+        "lượng nhiệt cần để làm bay hơi hoàn toàn 1 kg chất đó.",
+        "năng lượng mà chất đó tỏa ra khi nguội đi 1°C."
+      ],
+      "answer": 0,
+      "needsReview": false
+    },
+    {
+      "id": "mcq-072",
+      "srcNo": 72,
+      "topic": null,
+      "q": "Đơn vị của nhiệt dung riêng trong hệ SI là",
+      "images": [],
+      "formulaImages": [],
+      "options": [
+        "J/kg.",
+        "J/kg.K.",
+        "J/K.",
+        "J.K/kg."
+      ],
+      "answer": 1,
+      "needsReview": false
+    },
+    {
+      "id": "mcq-073",
+      "srcNo": 73,
+      "topic": null,
+      "q": "Nhiệt nóng chảy riêng của một chất là",
+      "images": [],
+      "formulaImages": [],
+      "options": [
+        "lượng nhiệt cần để tăng nhiệt độ của 1 kg chất thêm 1°C.",
+        "lượng nhiệt cần để làm tan chảy hoàn toàn 1 kg chất rắn ở nhiệt độ nóng chảy của nó.",
+        "lượng nhiệt cần để làm bay hơi hoàn toàn 1 kg chất ở nhiệt độ sôi.",
+        "lượng nhiệt mà 1 kg chất tỏa ra khi nguội đi 1°C."
+      ],
+      "answer": 1,
+      "needsReview": false
+    },
+    {
+      "id": "mcq-074",
+      "srcNo": 74,
+      "topic": null,
+      "q": "Nhiệt hoá hơi riêng của một chất là",
+      "images": [],
+      "formulaImages": [],
+      "options": [
+        "lượng nhiệt cần để làm bay hơi hoàn toàn 1 kg chất lỏng ở nhiệt độ sôi của nó.",
+        "lượng nhiệt cần để làm tan chảy hoàn toàn 1 kg chất rắn.",
+        "lượng nhiệt cần để làm nóng 1 kg chất lỏng thêm 1°C.",
+        "năng lượng mà 1 kg chất rắn tỏa ra khi nguội đi 1°C."
+      ],
+      "answer": 0,
+      "needsReview": false
+    },
+    {
+      "id": "mcq-075",
+      "srcNo": 75,
+      "topic": null,
+      "q": "So sánh: nhiệt dung riêng, nhiệt nóng chảy riêng và nhiệt hoá hơi riêng, phát biểu nào sau đây đúng?",
+      "images": [],
+      "formulaImages": [],
+      "options": [
+        "Cả ba đều là đại lượng đặc trưng cho khả năng hấp thụ nhiệt của chất.",
+        "Chỉ có nhiệt dung riêng đặc trưng cho khả năng hấp thụ nhiệt.",
+        "Nhiệt hoá hơi riêng và nhiệt nóng chảy riêng không liên quan đến nội năng.",
+        "Cả ba đều không đặc trưng cho tính chất vật lí của chất."
+      ],
+      "answer": 0,
+      "needsReview": false
+    },
+    {
+      "id": "mcq-076",
+      "srcNo": 76,
+      "topic": null,
+      "q": "Dụng cụ nào không thể thiếu khi tiến hành đo nhiệt dung riêng của chất rắn bằng phương pháp trộn?",
+      "images": [],
+      "formulaImages": [],
+      "options": [
+        "Nhiệt kế.",
+        "Cốc cách nhiệt.",
+        "Ampe kế.",
+        "Cân."
+      ],
+      "answer": 2,
+      "needsReview": false
+    },
+    {
+      "id": "mcq-077",
+      "srcNo": 77,
+      "topic": null,
+      "q": "Nhiệt dung riêng của nước là 4200 J/kg.K nghĩa là dùng nhiệt lượng 4200 J cấp cho 1 kg nước thì",
+      "images": [],
+      "formulaImages": [],
+      "options": [
+        "nước sẽ sôi.",
+        "nước tăng thêm 10C.",
+        "nước tăng thêm 10 K.",
+        "nước sẽ đóng băng."
+      ],
+      "answer": 1,
+      "needsReview": false
+    },
+    {
+      "id": "mcq-078",
+      "srcNo": 78,
+      "topic": null,
+      "q": "Nhiệt dung riêng của nước là 4200 J/kg.K Nếu cấp cho 500g nước ở nhiệt độ 200C một nhiệt lượng 4.200 J thì lượng nước trên sẽ có nhiệt độ là",
+      "images": [],
+      "formulaImages": [],
+      "options": [
+        "200C.",
+        "210C.",
+        "220C.",
+        "300C."
+      ],
+      "answer": 2,
+      "needsReview": false
+    },
+    {
+      "id": "mcq-079",
+      "srcNo": 79,
+      "topic": null,
+      "q": "Nước đá có nhiệt nóng chảy riêng là 300.000 J/kg. Nếu cấp cho 1kg nước đá ở 00C  một nhiệt lượng 300.000 J thì khi hết nhiệt lượng khối nước đá trên sẽ",
+      "images": [],
+      "formulaImages": [],
+      "options": [
+        "chảy hết và tăng nhiệt độ.",
+        "vừa chảy hết.",
+        "chảy không hết.",
+        "Chảy hết và sôi."
+      ],
+      "answer": 1,
+      "needsReview": false
+    },
+    {
+      "id": "mcq-080",
+      "srcNo": 80,
+      "topic": null,
+      "q": "Nhiệt hóa hơi riêng của nước là L, nếu cấp cho 1 kg nước ở 300C nhiệt lượng L thì khối nước ấy sẽ",
+      "images": [],
+      "formulaImages": [],
+      "options": [
+        "bay hơi hết.",
+        "nóng lên và bay hơi nhưng không hết.",
+        "vừa nóng lên đến 1000C.",
+        "đóng băng."
+      ],
+      "answer": 1,
+      "needsReview": false
+    },
+    {
+      "id": "mcq-081",
+      "srcNo": 81,
+      "topic": null,
+      "q": "Nung khối nước đá ở 00C đến khi sôi thì nhiệt độ tăng dần. Đồ thị biểu diễn sự phụ thuộc của nhiệt độ theo thời gian là",
+      "images": [],
+      "formulaImages": [],
+      "options": [
+        "thẳng.",
+        "gấp khúc.",
+        "đường tròn.",
+        "đường parabol."
+      ],
+      "answer": 1,
+      "needsReview": false
+    },
+    {
+      "id": "mcq-082",
+      "srcNo": 82,
+      "topic": null,
+      "q": "Khi thực hiện thí nghiệm đo nhiệt dung riêng của chất lỏng bằng phương pháp đun bằng điện trở, ta cần đo các đại lượng nào?",
+      "images": [],
+      "formulaImages": [],
+      "options": [
+        "Nhiệt độ và thời gian đun.",
+        "Điện áp, cường độ dòng điện, thời gian và khối lượng chất lỏng.",
+        "Khối lượng riêng và nhiệt độ ban đầu.",
+        "Nhiệt độ cuối và áp suất."
+      ],
+      "answer": 1,
+      "needsReview": false
+    },
+    {
+      "id": "mcq-083",
+      "srcNo": 83,
+      "topic": null,
+      "q": "Để xác định nhiệt nóng chảy riêng của nước đá, dụng cụ cần thiết là",
+      "images": [],
+      "formulaImages": [],
+      "options": [
+        "bếp điện, cốc cách nhiệt, nhiệt kế, cân.",
+        "cốc thủy tinh, ống nghiệm, áp kế.",
+        "đồng hồ đo điện và biến trở.",
+        "bình kín chứa hơi nước."
+      ],
+      "answer": 0,
+      "needsReview": false
+    },
+    {
+      "id": "mcq-084",
+      "srcNo": 84,
+      "topic": null,
+      "q": "Nguyên tắc xác định nhiệt nóng chảy riêng của nước đá là",
+      "images": [],
+      "formulaImages": [],
+      "options": [
+        "dựa trên sự thay đổi thể tích của chất rắn.",
+        "dựa vào nhiệt lượng do điện cung cấp cho nước đá.",
+        "dựa vào áp suất hơi của nước đá.",
+        "dựa vào độ chênh lệch nhiệt độ sôi."
+      ],
+      "answer": 1,
+      "needsReview": false
+    },
+    {
+      "id": "mcq-085",
+      "srcNo": 85,
+      "topic": null,
+      "q": "Trong thí nghiệm đo nhiệt nóng chảy riêng của nước đá, việc khuấy đều nước trong cốc nhằm",
+      "images": [],
+      "formulaImages": [],
+      "options": [
+        "tăng tốc độ tan chảy.",
+        "làm nhiệt độ trong cốc đồng đều, tránh sai số đo.",
+        "làm nước nguội nhanh hơn.",
+        "giảm khối lượng nước."
+      ],
+      "answer": 1,
+      "needsReview": false
+    },
+    {
+      "id": "mcq-086",
+      "srcNo": 86,
+      "topic": null,
+      "q": "Khi đo nhiệt hoá hơi riêng của nước, ta có thể dùng dụng cụ nào?",
+      "images": [],
+      "formulaImages": [],
+      "options": [
+        "Ấm điện, nhiệt kế, đồng hồ bấm giây, cân.",
+        "Cốc cách nhiệt, cốc đong, nhiệt kế.",
+        "Ống nghiệm và ống hút.",
+        "Bình chứa nước đá và nhiệt kế."
+      ],
+      "answer": 0,
+      "needsReview": false
+    },
+    {
+      "id": "mcq-087",
+      "srcNo": 87,
+      "topic": null,
+      "q": "Để đo nhiệt hoá hơi riêng của nước bằng phương pháp điện, ta dựa vào công thức nào?",
+      "images": [],
+      "formulaImages": [],
+      "options": [
+        "Q = mcΔt.",
+        "Q = mλ.",
+        "Q = mL.",
+        "Q = UIt."
+      ],
+      "answer": 2,
+      "needsReview": false
+    },
+    {
+      "id": "mcq-088",
+      "srcNo": 88,
+      "topic": null,
+      "q": "Hiện tượng chuyển động Brown là gì?",
+      "images": [],
+      "formulaImages": [],
+      "options": [
+        "Chuyển động tuần hoàn của các hạt bụi trong chất khí.",
+        "Chuyển động có hướng của các hạt nhỏ trong chất lỏng.",
+        "Chuyển động hỗn loạn, không ngừng của các hạt rất nhỏ lơ lửng trong chất lỏng hay chất khí.",
+        "Chuyển động của các phân tử trong tinh thể rắn."
+      ],
+      "answer": 2,
+      "needsReview": false
+    },
+    {
+      "id": "mcq-089",
+      "srcNo": 89,
+      "topic": null,
+      "q": "Chuyển động Brown chứng tỏ điều gì về cấu tạo của vật chất?",
+      "images": [],
+      "formulaImages": [],
+      "options": [
+        "Vật chất là liên tục.",
+        "Vật chất gồm các hạt rất nhỏ chuyển động không ngừng, hỗn loạn.",
+        "Các phân tử đứng yên tại chỗ.",
+        "Các phân tử chỉ dao động tại chỗ."
+      ],
+      "answer": 1,
+      "needsReview": false
+    },
+    {
+      "id": "mcq-090",
+      "srcNo": 90,
+      "topic": null,
+      "q": "Nguyên nhân gây ra chuyển động Brown của các hạt nhỏ là",
+      "images": [],
+      "formulaImages": [],
+      "options": [
+        "lực hút giữa các hạt nhỏ.",
+        "sự chênh lệch nhiệt độ giữa hạt và môi trường.",
+        "sự va chạm không đều của các phân tử môi trường vào hạt nhỏ.",
+        "dòng đối lưu trong chất lỏng."
+      ],
+      "answer": 2,
+      "needsReview": false
+    },
+    {
+      "id": "mcq-091",
+      "srcNo": 91,
+      "topic": null,
+      "q": "Khi nhiệt độ môi trường tăng, chuyển động Brown của các hạt nhỏ sẽ",
+      "images": [],
+      "formulaImages": [],
+      "options": [
+        "giảm đi.",
+        "không đổi.",
+        "ngừng lại.",
+        "mạnh hơn, nhanh hơn."
+      ],
+      "answer": 3,
+      "needsReview": false
+    },
+    {
+      "id": "mcq-092",
+      "srcNo": 92,
+      "topic": null,
+      "q": "Kết luận rút ra từ mô hình chuyển động Brown là các phân tử trong chất khí",
+      "images": [],
+      "formulaImages": [],
+      "options": [
+        "chuyển động có hướng xác định.",
+        "chuyển động hỗn loạn, không ngừng.",
+        "đứng yên nhưng dao động.",
+        "chỉ chuyển động theo phương thẳng đứng."
+      ],
+      "answer": 1,
+      "needsReview": false
+    },
+    {
+      "id": "mcq-093",
+      "srcNo": 93,
+      "topic": null,
+      "q": "Theo thuyết động học phân tử, chất khí được cấu tạo từ",
+      "images": [],
+      "formulaImages": [],
+      "options": [
+        "các phân tử đứng yên tại chỗ.",
+        "các phân tử có khối lượng rất lớn và chuyển động đều.",
+        "các phân tử riêng rẽ, có kích thước rất nhỏ so với khoảng cách giữa chúng.",
+        "một khối vật chất liên tục không có khe hở."
+      ],
+      "answer": 2,
+      "needsReview": false
+    },
+    {
+      "id": "mcq-094",
+      "srcNo": 94,
+      "topic": null,
+      "q": "Một trong các giả thuyết của thuyết động học phân tử chất khí là",
+      "images": [],
+      "formulaImages": [],
+      "options": [
+        "các phân tử chỉ chuyển động quanh vị trí cân bằng.",
+        "các phân tử chuyển động hỗn loạn, không ngừng nghỉ.",
+        "các phân tử chuyển động theo quỹ đạo xác định.",
+        "các phân tử luôn đứng yên khi nhiệt độ bằng 0°C."
+      ],
+      "answer": 1,
+      "needsReview": false
+    },
+    {
+      "id": "mcq-095",
+      "srcNo": 95,
+      "topic": null,
+      "q": "Theo thuyết động học phân tử, lực tương tác giữa các phân tử khí như thế nào?",
+      "images": [],
+      "formulaImages": [],
+      "options": [
+        "Luôn hút nhau mạnh.",
+        "Luôn đẩy nhau mạnh.",
+        "Chỉ đáng kể khi các phân tử đến rất gần nhau.",
+        "Không có lực tương tác nào giữa các phân tử."
+      ],
+      "answer": 2,
+      "needsReview": false
+    },
+    {
+      "id": "mcq-096",
+      "srcNo": 96,
+      "topic": null,
+      "q": "Theo thuyết động học phân tử, áp suất của chất khí là do",
+      "images": [],
+      "formulaImages": [],
+      "options": [
+        "khối lượng của các phân tử tạo ra.",
+        "va chạm của các phân tử khí vào thành bình chứa.",
+        "trọng lượng của khí trong bình.",
+        "lực hút giữa các phân tử khí."
+      ],
+      "answer": 1,
+      "needsReview": false
+    },
+    {
+      "id": "mcq-097",
+      "srcNo": 97,
+      "topic": null,
+      "q": "Một giả thuyết quan trọng của thuyết động học phân tử chất khí là",
+      "images": [],
+      "formulaImages": [],
+      "options": [
+        "động năng trung bình của các phân tử tỉ lệ với nhiệt độ tuyệt đối của khí.",
+        "động năng trung bình của các phân tử không phụ thuộc vào nhiệt độ.",
+        "động năng của các phân tử bằng nhau ở mọi nhiệt độ.",
+        "nhiệt độ tăng thì động năng phân tử giảm."
+      ],
+      "answer": 0,
+      "needsReview": false
+    },
+    {
+      "id": "mcq-098",
+      "srcNo": 98,
+      "topic": null,
+      "q": "Trong quá trình nóng chảy ở một áp suất nhất định, đại lượng nào sau đây không đổi?",
+      "images": [],
+      "formulaImages": [],
+      "options": [
+        "Nhiệt độ của vật.",
+        "Thể tích của vật.",
+        "Nội năng của vật.",
+        "Nhiệt lượng vật nhận."
+      ],
+      "answer": 0,
+      "needsReview": false
+    },
+    {
+      "id": "mcq-099",
+      "srcNo": 99,
+      "topic": null,
+      "q": "Để đo nhiệt dung riêng của chất rắn bằng phương pháp trộn, ta cần",
+      "images": [],
+      "formulaImages": [],
+      "options": [
+        "một mẫu chất rắn, nước, cốc cách nhiệt, nhiệt kế.",
+        "một nguồn điện và biến trở.",
+        "một bình kín và ống dẫn hơi.",
+        "một cân lực kế và đồng hồ bấm giây."
+      ],
+      "answer": 0,
+      "needsReview": false
+    }
+  ],
+  "tf": [
+    {
+      "id": "tf-001",
+      "srcNo": 1,
+      "topic": null,
+      "q": "Một cốc nước sôi đang ở 100°C được để ngoài trời, sau một thời gian nước nguội đi.",
+      "images": [],
+      "formulaImages": [],
+      "statements": [
+        "Năng lượng của các phân tử nước giảm khi nước nguội.",
+        "Nhiệt truyền từ nước sang không khí xung quanh.",
+        "Khi nước nguội đi, khối lượng riêng của nước tăng.",
+        "Khi cân bằng nhiệt với không khí, không còn sự trao đổi nhiệt nữa."
+      ],
+      "answers": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "tf-002",
+      "srcNo": 2,
+      "topic": null,
+      "q": "Khi một khối băng tan dần ở 0°C trong cốc thủy tinh, học sinh cho rằng “băng đang nóng lên”.",
+      "images": [],
+      "formulaImages": [],
+      "statements": [
+        "Nhiệt độ của băng tăng trong quá trình tan.",
+        "Băng nhận năng lượng nhiệt từ môi trường.",
+        "Toàn bộ năng lượng nhận được dùng để phá vỡ cấu trúc tinh thể rắn.",
+        "Quá trình này gọi là sự nóng chảy."
+      ],
+      "answers": [
+        false,
+        true,
+        true,
+        true
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "tf-003",
+      "srcNo": 3,
+      "topic": null,
+      "q": "Trong thí nghiệm đo nhiệt dung riêng của nhôm, học sinh nhận thấy khi đun nóng nhôm và nước cùng khối lượng, nước nóng chậm hơn.",
+      "images": [],
+      "formulaImages": [],
+      "statements": [
+        "Nhiệt dung riêng của nước lớn hơn của nhôm.",
+        "Nhôm hấp thụ ít nhiệt hơn nước trong cùng điều kiện.",
+        "Nhiệt lượng Q hấp thụ bằng m.c.Δt.",
+        "Khi Δt tăng gấp đôi, Q giảm đi một nửa."
+      ],
+      "answers": [
+        true,
+        false,
+        true,
+        false
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "tf-004",
+      "srcNo": 4,
+      "topic": null,
+      "q": "Một vật được cung cấp năng lượng bằng cách đốt nóng, đồng thời vật nở ra và thực hiện công.",
+      "images": [],
+      "formulaImages": [],
+      "statements": [
+        "Phần năng lượng dùng để tăng nội năng của vật.",
+        "Phần năng lượng dùng để thực hiện công giãn nở.",
+        "Tổng hai phần năng lượng đó bằng tổng nhiệt lượng cung cấp.",
+        "Nhiệt lượng cung cấp luôn bằng công mà vật thực hiện."
+      ],
+      "answers": [
+        true,
+        true,
+        true,
+        false
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "tf-005",
+      "srcNo": 5,
+      "topic": null,
+      "q": "Trong thang Kelvin, điểm 0 K được gọi là “độ không tuyệt đối”.",
+      "images": [],
+      "formulaImages": [],
+      "statements": [
+        "Ở 0 K, các phân tử ngừng chuyển động nhiệt.",
+        "Thế năng tương tác giữa các phân tử đạt giá trị nhỏ nhất.",
+        "Nhiệt độ này bằng –100°C.",
+        "Độ không tuyệt đối là giới hạn thấp nhất của thang nhiệt độ."
+      ],
+      "answers": [
+        true,
+        true,
+        false,
+        true
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "tf-006",
+      "srcNo": 6,
+      "topic": null,
+      "q": "Khi đun nước trong ấm, ta thấy các bọt khí nổi lên rồi biến mất dần trước khi nước sôi hoàn toàn.",
+      "images": [],
+      "formulaImages": [],
+      "statements": [
+        "Đó là hiện tượng hóa hơi trong lòng chất lỏng.",
+        "Sự hóa hơi xảy ra mạnh nhất khi nước đạt 100°C (ở 1 atm).",
+        "Năng lượng cung cấp dùng để thắng lực liên kết giữa các phân tử.",
+        "Nhiệt độ nước tiếp tục tăng trong quá trình sôi."
+      ],
+      "answers": [
+        true,
+        true,
+        true,
+        false
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "tf-007",
+      "srcNo": 7,
+      "topic": null,
+      "q": "Một giáo viên cho học sinh làm thí nghiệm đo nhiệt nóng chảy riêng của nước đá. Các bước thực hiện như sau.\n- Đo khối lượng nước đá;\n- Đo nhiệt lượng do điện trở tỏa ra;\n- Ghi lại thời gian nước đá tan hoàn toàn.",
+      "images": [],
+      "formulaImages": [],
+      "statements": [
+        "Cần đo chính xác khối lượng nước đá.",
+        "Có thể tính nhiệt nóng chảy riêng bằng công thức λ = Q/m.",
+        "Khi có thất thoát nhiệt, kết quả vẫn chính xác tuyệt đối.",
+        "Dụng cụ cần có bình cách nhiệt để giảm hao nhiệt."
+      ],
+      "answers": [
+        true,
+        true,
+        false,
+        true
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "tf-008",
+      "srcNo": 8,
+      "topic": null,
+      "q": "Khi quan sát dưới kính hiển vi, người ta thấy các hạt bụi nhỏ trong chất lỏng chuyển động hỗn loạn.",
+      "images": [],
+      "formulaImages": [],
+      "statements": [
+        "Đó là chuyển động Brown.",
+        "Nguyên nhân là do các phân tử chất lỏng va chạm không đều vào hạt bụi.",
+        "Các hạt bụi có năng lượng hóa học lớn.",
+        "Hiện tượng này chứng minh sự tồn tại của các phân tử và chuyển động nhiệt của chúng."
+      ],
+      "answers": [
+        true,
+        true,
+        false,
+        true
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "tf-009",
+      "srcNo": 9,
+      "topic": null,
+      "q": "Trong quá trình thực hành, một học sinh dùng nhiệt kế Celsius để đo nhiệt độ của hơi nước, ghi được 100°C.",
+      "images": [],
+      "formulaImages": [],
+      "statements": [
+        "Ở áp suất tiêu chuẩn, 100°C là nhiệt độ sôi của nước tinh khiết.",
+        "Nhiệt độ này tương ứng 100 K.",
+        "Nếu đo theo Kelvin thì là 373 K.",
+        "Mỗi độ chia của nhiệt kế Celsius bằng 1/100 khoảng cách từ 0°C đến 100°C."
+      ],
+      "answers": [
+        true,
+        false,
+        true,
+        true
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "tf-010",
+      "srcNo": 10,
+      "topic": null,
+      "q": "Biểu đồ mô tả sự thay đổi nhiệt độ của một khối băng khi được đun nóng",
+      "images": [
+        "/img/tf-010_1.png"
+      ],
+      "formulaImages": [],
+      "statements": [
+        "Đoạn OA cho biết băng đang hóa hơi.",
+        "Ở đoạn OA, băng nhận nhiệt nhưng nhiệt độ không đổi.",
+        "Ở đoạn AB, nước hấp thụ nhiệt và tăng nhiệt độ.",
+        "Ở đoạn BC, nước nhận năng lượng để chuyển sang hơi nước."
+      ],
+      "answers": [
+        false,
+        true,
+        true,
+        true
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "tf-011",
+      "srcNo": 11,
+      "topic": null,
+      "q": "Một khí lí tưởng nhận nhiệt lượng 800 J và thực hiện công 300 J.",
+      "images": [],
+      "formulaImages": [],
+      "statements": [
+        "Độ biến thiên nội năng của khí là 500 J.",
+        "Độ biến thiên nội năng là 1100 J.",
+        "Công thức định luật I. ΔU = Q – A.",
+        "Nếu khí không thực hiện công, ΔU = 0."
+      ],
+      "answers": [
+        true,
+        false,
+        false,
+        false
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "tf-012",
+      "srcNo": 12,
+      "topic": null,
+      "q": "Một ấm nước có khối lượng 0,5 kg được đun từ 20°C đến 100°C. Cho biết nhiệt dung riêng của nước 4200J/kg.",
+      "images": [],
+      "formulaImages": [],
+      "statements": [
+        "Nhiệt lượng cần thiết là 168 000 J.",
+        "Nếu nước sôi, nhiệt độ tiếp tục tăng.",
+        "Sau khi sôi, năng lượng tiếp tục dùng để hóa hơi nước.",
+        "Nhiệt dung riêng của nước phụ thuộc vào khối lượng."
+      ],
+      "answers": [
+        true,
+        false,
+        true,
+        false
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "tf-013",
+      "srcNo": 13,
+      "topic": null,
+      "q": "Cung cấp nhiệt lượng 1,5 J cho một khối khí trong một xi lanh đặt nằm ngang. Chất khí nở ra đẩy pít-tông đi một đoạn 6,0 cm. Biết lực ma sát giữa pit-tông và xi lanh có độ lớn là 20,0 N, diện tích tiết diện của pít-tông là $1{,}0\\text{ cm}^2$. Coi pit-tông chuyển động thẳng đều. Trong các phát biểu sau, phát biểu nào là đúng, phát biểu nào là sai ?",
+      "images": [],
+      "formulaImages": [
+        "/img/formula/oleObject3.png",
+        "/img/formula/oleObject4.png"
+      ],
+      "statements": [
+        "Công của khối khí thực hiện là 1,2 J.",
+        "Độ biến thiên nội năng của khối khí là 0,50 J.",
+        "Trong quá trình dãn nở, áp suất của chất khí là $2{,}0 \\cdot 10^5\\text{ Pa}$.",
+        "Thể tích khí trong xilanh tăng 6,0 lít"
+      ],
+      "answers": [
+        true,
+        false,
+        true,
+        false
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "tf-014",
+      "srcNo": 14,
+      "topic": null,
+      "q": "Hình dưới đây là “giản đồ chuyển thể nhiệt độ/áp suất của nước được đơn giản hóa”. Trong các phát biểu sau đây, phát biểu nào là đúng, phát biểu nào là sai?",
+      "images": [
+        "/img/tf-014_1.png"
+      ],
+      "formulaImages": [
+        "/img/formula/oleObject5.png",
+        "/img/formula/oleObject6.png",
+        "/img/formula/oleObject7.png",
+        "/img/formula/oleObject8.png"
+      ],
+      "statements": [
+        "Thang nhiệt độ Celcius có nhiệt độ dùng làm mốc là nhiệt độ $x$ và nhiệt độ $z$",
+        "Thang nhiệt độ Kelvin có nhiệt độ dùng làm mốc là nhiệt độ thấp nhất mà các vật có thể đạt được (nhiệt độ không tuyệt đối) và nhiệt độ $y$",
+        "Ở nhiệt độ không tuyệt đối, tất cả các chất đều có động năng chuyển động nhiệt của các phân tử bằng không và thế năng của chúng là tối thiểu.",
+        "Hiện nay, các nhà khoa học đã hạ thấp nhiệt độ đến $0\\text{ K}$"
+      ],
+      "answers": [
+        true,
+        true,
+        true,
+        false
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "tf-015",
+      "srcNo": 15,
+      "topic": null,
+      "q": "Một học sinh làm thí nghiệm đun nóng để làm $0{,}020\\text{ kg}$ nước đá (thể rắn) ở $0^\\circ\\text{C}$ chuyển hoàn toàn thành hơi nước ở $100^\\circ\\text{C}$ Cho nhiệt nóng chảy của nước ở $0^\\circ\\text{C}$ là $3{,}34 \\cdot 10^5\\text{ J/kg}$ nhiệt dung riêng của nước là $4{,}20\\text{ kJ/(kg}\\cdot\\text{K)}$ nhiệt hóa hới riêng của nước ở $100^\\circ\\text{C}$ là $2{,}26 \\cdot 10^6\\text{ J/kg}$ Bỏ qua hao phí tỏa nhiệt ra môi trường. Trong các phát biểu sau, phát biểu nào đúng, phát biểu nào sai?",
+      "images": [],
+      "formulaImages": [
+        "/img/formula/oleObject9.png",
+        "/img/formula/oleObject10.png",
+        "/img/formula/oleObject11.png",
+        "/img/formula/oleObject12.png",
+        "/img/formula/oleObject13.png",
+        "/img/formula/oleObject14.png",
+        "/img/formula/oleObject15.png",
+        "/img/formula/oleObject16.png",
+        "/img/formula/oleObject17.png",
+        "/img/formula/oleObject18.png",
+        "/img/formula/oleObject19.png",
+        "/img/formula/oleObject20.png",
+        "/img/formula/oleObject21.png",
+        "/img/formula/oleObject22.png",
+        "/img/formula/oleObject23.png",
+        "/img/formula/oleObject24.png",
+        "/img/formula/oleObject25.png",
+        "/img/formula/oleObject26.png",
+        "/img/formula/oleObject27.png",
+        "/img/formula/oleObject28.png",
+        "/img/formula/oleObject29.png"
+      ],
+      "statements": [
+        "Nhiệt lượng cần thiết để làm nóng chảy hoàn toàn $0{,}020\\text{ kg}$ nước đá tại nhiệt độ nóng chảy là $6680\\text{ J}$",
+        "Nhiệt lượng cần thiết để đưa $0{,}020\\text{ kg}$ nước từ $0^\\circ\\text{C}$ đến $100^\\circ\\text{C}$ là $8400\\text{ J}$",
+        "Nhiệt lượng cần thiết để làm hóa hơi hoàn toàn $0{,}020\\text{ kg}$ nước ở $100^\\circ\\text{C}$ là $45200\\text{ J}$",
+        "Nhiệt lượng để làm $0{,}020\\text{ kg}$ nước đá (thể rắn) ở $0^\\circ\\text{C}$ chuyển hoàn toàn thành hơi nước ở $100^\\circ\\text{C}$ là $60280\\text{ J}$"
+      ],
+      "answers": [
+        false,
+        false,
+        false,
+        true
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "tf-016",
+      "srcNo": 16,
+      "topic": null,
+      "q": "Khi xây dựng công thức tính áp suất chất khí từ mô hình động học phân tử khí, trong các phát biểu sau đây, phát biểu nào là đúng, phát biểu nào là sai?",
+      "images": [],
+      "formulaImages": [],
+      "statements": [
+        "Trong thời gian giữa hai va chạm liên tiếp với thành bình, động lượng của phân tử khí thay đổi một lượng bằng tích khối lượng phân tử và tốc độ trung bình của nó.",
+        "Giữa hai va chạm với thành bình, phân tử khí chuyển động thẳng đều.",
+        "Lực gây ra thay đổi động lượng của phân tử khí là lực do phân tử khí tác dụng lên thành bình.",
+        "Các phân tử khí chuyển động không có phương ưu tiên, số phân tử đến va chạm với các mặt của thành bình trong mỗi giây là như nhau."
+      ],
+      "answers": [
+        false,
+        true,
+        false,
+        true
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "tf-017",
+      "srcNo": 17,
+      "topic": null,
+      "q": "Trong các phát biểu sau đây về mô hình động học phân tử, phát biểu nào là đúng, phát biểu nào là sai?",
+      "images": [],
+      "formulaImages": [],
+      "statements": [
+        "Các chất được cấu tạo bởi một số rất lớn những hạt có kích thước rất nhỏ được gọi chung là phân tử.",
+        "Các phân tử chuyển động không ngừng theo mọi hướng, chuyển động này được gọi là chuyển động nhiệt.",
+        "Các phân tử chuyển dộng nhiệt càng nhanh thì nhiệt độ của vật càng cao.",
+        "Giữa các phân tử có các lực tương tác (hút và đẩy). Khi các phân tử gần nhau thì lực hút chiếm ưu thế và khi xa nhau thì các lực đẩy chiếm ưu thế."
+      ],
+      "answers": [
+        true,
+        true,
+        true,
+        false
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "tf-018",
+      "srcNo": 18,
+      "topic": null,
+      "q": "Trong các phát biểu sau đây về chất ở thể rắn, phát biểu nào là đúng, phát biểu nào là sai?",
+      "images": [],
+      "formulaImages": [],
+      "statements": [
+        "Ở thể rắn các phân tử rất gần nhau (khoảng cách giữa các phân tử cỡ kích thước phân tử).",
+        "Các phân tử ở thế rắn sắp xếp không có trật tự, chặt chẽ.",
+        "Lực tương tác giữa các phân tử rất mạnh giữ cho chúng không di chuyển tự do mà chỉ có thể dao động xung quanh vị trí cân bằng xác định.",
+        "Vật rắn có thể tích và hình dạnh riêng không xác định."
+      ],
+      "answers": [
+        true,
+        false,
+        true,
+        false
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "tf-019",
+      "srcNo": 19,
+      "topic": null,
+      "q": "Dùng tay cọ xát miếng kim loại vào sàn nhà thì thấy miếng kim loại nóng lên.",
+      "images": [],
+      "formulaImages": [],
+      "statements": [
+        "Ta đã làm thay đổi nội năng của miếng kim loại bằng cách truyền nhiệt.",
+        "Nội năng của miếng kim loại giảm.",
+        "Mặt tiếp xúc giữa miếng kim loại và sàn nhà có ma sát.",
+        "Khi cọ xát trong thời gian đủ dài có thể tạo ra lửa."
+      ],
+      "answers": [
+        false,
+        false,
+        true,
+        true
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "tf-020",
+      "srcNo": 20,
+      "topic": null,
+      "q": "Một học sinh thực hiện thí nghiệm, nén khối khí có thể tích V (ở điều kiện tiêu chuẩn) trong một xilanh để thể tích khí giảm một lượng $\\Delta V$ (Hình 1.5) thì nhiệt độ khối khí tăng $0{,}6^\\circ\\text{C}$. Giáo viên yêu cầu các học sinh nhận xét về kết quả thí nghiệm trên.",
+      "images": [
+        "/img/tf-020_1.png"
+      ],
+      "formulaImages": [
+        "/img/formula/oleObject30.png",
+        "/img/formula/oleObject31.png",
+        "/img/formula/oleObject32.png"
+      ],
+      "statements": [
+        "Nhiệt độ khối khí tăng phần lớn là do công của lực pit-tông thực hiện lên khối khí.",
+        "Phần nhiệt tạo ra do ma sát giữa pit-tông và xilanh có nhưng không đáng kể.",
+        "Trong thí nghiệm trên, độ tăng nhiệt độ không phụ thuộc vào $\\Delta V$.",
+        "Trong thí nghiệm trên, độ tăng nhiệt độ không phụ thuộc vào V."
+      ],
+      "answers": [
+        true,
+        true,
+        false,
+        false
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "tf-021",
+      "srcNo": 21,
+      "topic": null,
+      "q": "Một khối khí đựng trong xilanh như Hình 1.6. Dùng tay ấn pit-tông xuống dưới.",
+      "images": [],
+      "formulaImages": [],
+      "statements": [
+        "Nhiệt độ khối khí không thay đổi.",
+        "Nôi năng của khối khí không đổi.",
+        "Thể tích khối khí giảm.",
+        "Áp suất khối khí không đổi."
+      ],
+      "answers": [
+        false,
+        false,
+        true,
+        false
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "tf-022",
+      "srcNo": 22,
+      "topic": null,
+      "q": "Các biểu thức sau đây mô tả các quá trình thay đổi nội năng nào?",
+      "images": [],
+      "formulaImages": [
+        "/img/formula/oleObject33.png"
+      ],
+      "statements": [
+        "$\\Delta U = Q$, khi Q > 0 và khi Q < 0. Hệ chỉ trao đổi nhiệt với bên ngoài.",
+        "U = A, khi A > 0 và khi A < 0. Hệ chỉ trao đổi công với bên ngoài.",
+        "U= A + Q, khi Q > 0 và khi A < 0. Hệ nhận nhiệt để thực hiện công.",
+        "U= A + Q, khi Q < 0 và khi A > 0. Hệ nhận công để nhả nhiệt."
+      ],
+      "answers": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "tf-023",
+      "srcNo": 23,
+      "topic": null,
+      "q": "Các nhiệt kế (thông thường) được chế tạo dựa trên các tính chất phụ thuộc vào nhiệt độ có thể đo được như",
+      "images": [],
+      "formulaImages": [],
+      "statements": [
+        "thể tích chất khí, chất lỏng; chiều dài của vật rắn, lỏng.",
+        "điện trở của dây dẫn kim loại.",
+        "hiệu điện thế của cặp nhiệt điện.",
+        "sự đổi màu của một số vật liệu."
+      ],
+      "answers": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "tf-024",
+      "srcNo": 24,
+      "topic": null,
+      "q": "Khi nước trong bình đang sôi thì năng lượng mà nước nhận được từ nguồn nhiệt",
+      "images": [],
+      "formulaImages": [],
+      "statements": [
+        "được chuyển hoá thành động năng của các phân tử nước.",
+        "không làm tăng nhiệt độ.",
+        "không làm tăng động năng chuyển động trung bình của nước trong bình.",
+        "dùng để chuyển thể lỏng sang thể hơi."
+      ],
+      "answers": [
+        true,
+        true,
+        false,
+        true
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "tf-025",
+      "srcNo": 25,
+      "topic": null,
+      "q": "Khi bay hơi, các phân tử chất lỏng thoát ra ngoài làm mất đi năng lượng dưới dạng động năng (của các phần tử thoát) dẫn đến",
+      "images": [],
+      "formulaImages": [],
+      "statements": [
+        "nội năng của khối chất lỏng giảm.",
+        "nhiệt độ của khối chất lỏng giảm.",
+        "quá trình đông đặc chuyển sang thể rắn.",
+        "thể tích khối chất lỏng tăng lên."
+      ],
+      "answers": [
+        true,
+        true,
+        false,
+        false
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "tf-026",
+      "srcNo": 26,
+      "topic": null,
+      "q": "Nhiệt nóng chảy riêng và nhiệt độ nóng chảy là thông tin, giúp người ta",
+      "images": [],
+      "formulaImages": [],
+      "statements": [
+        "Xác định được năng lượng cần cung cấp cho lò nung, thời gian nung.",
+        "Thời điểm đổ kim loại nóng chảy vào khuôn, thời điểm lấy sản phẩm ra khỏi khuôn.",
+        "Lựa chọn vật liệu chế tạo hợp kim phù hợp với từng yêu cầu sử dụng khác nhau.",
+        "Tách các kim loại nguyên chất ra khỏi quặng hỗn hợp."
+      ],
+      "answers": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "tf-027",
+      "srcNo": 27,
+      "topic": null,
+      "q": "Nhiệt hóa hơi riêng là thông tin cần thiết để thiết kế chế tạo các sản phẩm của sử dụng hiện tượng hóa hơi nhằm tiết kiệm năng lượng bảo vệ môi trường. Ví dụ như.",
+      "images": [],
+      "formulaImages": [],
+      "statements": [
+        "Các nhiệt kế cảm ứng nhiệt.",
+        "Các thiết bị làm lạnh.",
+        "Nồi hấp tiệt trùng.",
+        "Thiết bị xử lí rác thải ứng dụng công nghệ nhiệt hóa hơi."
+      ],
+      "answers": [
+        false,
+        true,
+        true,
+        true
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "tf-028",
+      "srcNo": 28,
+      "topic": null,
+      "q": "Một hệ làm nóng nước bằng năng lượng mặt trời có hiệu suất chuyển đổi 25%; cường độ bức xạ mặt trời lên bộ thu nhiệt là 1000 W/m2; diện tích bộ thu là 4 m2. Cho nhiệt dung riêng của nước là 4200 J/kg.K.",
+      "images": [],
+      "formulaImages": [
+        "/img/formula/oleObject34.png"
+      ],
+      "statements": [
+        "Công suất bức xạ chiếu lên bộ thu nhiệt là 4200 W.",
+        "Trong 1,00 h, năng lượng mặt trời chiếu lên bộ thu nhiệt là 14,4 MJ.",
+        "Trong 1,00 h, phần năng lượng chuyển thành năng lượng nhiệt là 36,0 MJ.",
+        "Nếu hệ thống đó, làm nóng 30,0 kg nước thì trong khoảng thời gian 1,00 giờ nhiệt độ của nước tăng thêm $28{,}6^\\circ\\text{C}$."
+      ],
+      "answers": [
+        true,
+        true,
+        false,
+        true
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "tf-029",
+      "srcNo": 29,
+      "topic": null,
+      "q": "Một bình đun nước nóng bằng điện có công suất 9,0 kW. Nước được làm nóng khi đi qua buồng đốt của bình. Nước chảy qua buồng đốt với lưu lượng $5{,}8 \\cdot 10^{-2}\\text{ kg/s}$. Nhiệt độ của nước khi đi vào buồng đốt là $15^\\circ\\text{C}$. Cho nhiệt dung riêng của nước là $4200\\text{ J/(kg}\\cdot\\text{K)}$. Bỏ qua mọi hao phí.",
+      "images": [],
+      "formulaImages": [
+        "/img/formula/oleObject35.png",
+        "/img/formula/oleObject36.png",
+        "/img/formula/oleObject37.png",
+        "/img/formula/oleObject38.png",
+        "/img/formula/oleObject39.png"
+      ],
+      "statements": [
+        "Nhiệt độ của nước khi ra khỏi buồng đốt là $50^\\circ\\text{C}$.",
+        "Nếu nhiệt độ của nước khi đi vào buồng đốt tăng gấp đôi thì nhiệt độ nước ra khỏi buồng đốt tăng gấp đôi.",
+        "Nếu công suất điện giảm 2 lần thì nhiệt độ nước ra khỏi buồng đốt là $35^\\circ\\text{C}$.",
+        "Để điều chỉnh nhiệt độ của nước ra khỏi buồng đốt, ta có thể thay đổi. công suất điện; lưu lượng dòng nước; nhiệt độ nước đi vào."
+      ],
+      "answers": [
+        false,
+        false,
+        true,
+        true
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "tf-030",
+      "srcNo": 30,
+      "topic": null,
+      "q": "Trong các phát biểu sau về nội dung thuyết động học phân tử chất khí, phát biểu nào là đúng, phát biêu nào là sai?",
+      "images": [],
+      "formulaImages": [],
+      "statements": [
+        "Các phân tử chất khí chuyển động hỗn loạn, không ngừng.",
+        "Các phân tử chất khí chuyển động xung quanh các vị trí cân bằng cố định.",
+        "Các phân tử chất khí không va chạm với nhau.",
+        "Các phân tử chất khí gây ra áp suất khi va chạm với thành bình chứa."
+      ],
+      "answers": [
+        true,
+        false,
+        false,
+        true
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "tf-031",
+      "srcNo": 31,
+      "topic": null,
+      "q": "Trong các phát biểu sau đây, phát biểu nào là đúng, phát biểu nào là sai?",
+      "images": [],
+      "formulaImages": [],
+      "statements": [
+        "Các phân tử khí được coi là những quả cầu, đàn hồi tuyệt đổi và kích thước của các phân tử rất nhỏ so với khoảng cách trung bình giữa chúng.",
+        "Tổng thể tích của các phân tử đáng kể so với thể tích của bình chứa khí.",
+        "Giữa hai lần va chạm liên tiếp, các phân tử chuyển động thẳng biến đổi đều.",
+        "Chuyển động của các phân tử tuân theo định luật I, II và III của Newton."
+      ],
+      "answers": [
+        true,
+        false,
+        false,
+        true
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "tf-032",
+      "srcNo": 32,
+      "topic": null,
+      "q": "Trong các phát biểu sau về ứng dụng thuyết động học phân tử, phát biểu nào là đúng, phát biểu nào là sai?",
+      "images": [],
+      "formulaImages": [],
+      "statements": [
+        "Các nội dung thuyết động học phân tử chất khí mô tả các đặc điểm của chất khí lí tưởng.",
+        "Nhiệt độ càng cao thì động năng chuyển động nhiệt các phân tử không khí càng giảm do không khí bị giảm áp suất.",
+        "Chuyển động Brown của các hạt khói lơ lửng trong không khí giúp ta hình dung được về chuyển động của các phân tử khí.",
+        "Ở nhiệt độ bình thường, tốc độ trung bình của các phân tử lên tới hàng trăm mét trên giây. Điều này suy ra tốc độ lan tỏa mùi nước hoa trong không khí yên lặng có thể lên tới hàng trăm mét trên giây."
+      ],
+      "answers": [
+        true,
+        false,
+        true,
+        false
+      ],
+      "needsReview": false
+    }
+  ],
+  "short": [
+    {
+      "id": "short-001",
+      "srcNo": 1,
+      "topic": null,
+      "q": "Một cốc cà phê nóng 200 g ở 80°C nguội xuống 50°C. Cho biết c=4200 J/kg. Nhiệt lượng cốc cà phê tỏa ra bằng x × 10⁴ J. Giá trị của x bằng bao nhiêu (làm tròn đến hàng phần trăm)?",
+      "images": [],
+      "formulaImages": [],
+      "answer": "2.52",
+      "answerRaw": "2,52",
+      "needsReview": false
+    },
+    {
+      "id": "short-002",
+      "srcNo": 2,
+      "topic": null,
+      "q": "Một máy sưởi truyền cho không khí trong phòng (chứa 1000g không khí) nhiệt lượng 2,1.103J. Biết nhiệt dung riêng của không khí là 1000 J/kg.K. Nhiệt độ không khí tăng thêm bao nhiêu độ C (làm tròn đến hàng phần mười)?",
+      "images": [],
+      "formulaImages": [],
+      "answer": "2.1",
+      "answerRaw": "2,1",
+      "needsReview": false
+    },
+    {
+      "id": "short-003",
+      "srcNo": 3,
+      "topic": null,
+      "q": "Một lon nước ngọt 330 g ở 30°C được làm lạnh xuống 5°C. Nhiệt dung riêng của nước ngọt là 4200 J/kg.K. Nhiệt lượng nước tỏa ra là x. 10⁴ J. Giá trị của x bằng bao nhiêu (làm tròn đến hàng phần trăm)?",
+      "images": [],
+      "formulaImages": [],
+      "answer": "3.47",
+      "answerRaw": "3,47",
+      "needsReview": false
+    },
+    {
+      "id": "short-004",
+      "srcNo": 4,
+      "topic": null,
+      "q": "Để làm tan 100 g bơ ở 0°C, cần cung cấp năng lượng x. 103 J. Biết nhiệt nóng chảy riêng λ = 3,2.104  J/kg. Giá trị của x là bao nhiêu  (làm tròn đến hàng phần mười?",
+      "images": [],
+      "formulaImages": [],
+      "answer": "3.2",
+      "answerRaw": "3,2",
+      "needsReview": false
+    },
+    {
+      "id": "short-005",
+      "srcNo": 5,
+      "topic": null,
+      "q": "Để đun 0,5 kg nước từ 25°C đến 100°C để pha mì thì cần nhiệt lượng x. 105 J. Biết nhiệt dung riêng của nước là 4200 J/kg.K. Tính giá trị của x (làm tròn đến hàng phần trăm)?",
+      "images": [],
+      "formulaImages": [],
+      "answer": "1.58",
+      "answerRaw": "1,58",
+      "needsReview": false
+    },
+    {
+      "id": "short-006",
+      "srcNo": 6,
+      "topic": null,
+      "q": "Bình siêu tốc ghi công suất 1500 W dùng để đun 1 lít nước từ 25°C đến 100°C. Hiệu suất 90%, nhiệt dung riêng của nước là 4200 J/kg. Thời gian đun bằng bao nhiêu giây (làm tròn đến hàng đơn vị)?",
+      "images": [],
+      "formulaImages": [],
+      "answer": "233",
+      "answerRaw": "233",
+      "needsReview": false
+    },
+    {
+      "id": "short-007",
+      "srcNo": 7,
+      "topic": null,
+      "q": "Cần đun 0,25 kg sữa từ 20°C lên 60°C. Nhiệt dung riêng của sữa là 3900 J/kg.K. Nhiệt lượng cần thiết là x.104 J. Giá trị của x bằng bao nhiêu (làm tròn đến hàng phần mười)?",
+      "images": [],
+      "formulaImages": [],
+      "answer": "3.9",
+      "answerRaw": "3,9",
+      "needsReview": false
+    },
+    {
+      "id": "short-008",
+      "srcNo": 8,
+      "topic": null,
+      "q": "Để làm đông 0,2 kg nước ở 0°C thành nước đá ở 0°C cần lấy của nước một nhiệt lượng tối thiểu x.105 J/kg. Nhiệt nóng chảy riêng của nước đá là 3,4.105 J/kg. Tìm giá trị của x (làm tròn đến hàng phần mười).",
+      "images": [],
+      "formulaImages": [],
+      "answer": "0.7",
+      "answerRaw": "0,7",
+      "needsReview": false
+    },
+    {
+      "id": "short-009",
+      "srcNo": 9,
+      "topic": null,
+      "q": "Một phòng kín chứa 40 kg không khí ở 300C . Máy lạnh hút nhiệt lượng 3,6.105 J của không khí ra khỏi phòng. Nhiệt dung riêng của không khí là 1000 J/kg.K. Nhiệt độ trong phòng khi đó bằng bao nhiêu độ C?",
+      "images": [],
+      "formulaImages": [],
+      "answer": "21",
+      "answerRaw": "21",
+      "needsReview": false
+    },
+    {
+      "id": "short-010",
+      "srcNo": 10,
+      "topic": null,
+      "q": "Một ấm điện có chứa dây điện trở được nối vào nguồn 12 V, cường độ 2 A. Nhiệt lượng tỏa ra khi ấm hoạt động 5 phút bằng bao nhiêu J?",
+      "images": [],
+      "formulaImages": [],
+      "answer": "7200",
+      "answerRaw": "7200",
+      "needsReview": false
+    },
+    {
+      "id": "short-011",
+      "srcNo": 11,
+      "topic": null,
+      "q": "Một nhiệt kế đo được thân nhiệt của một người là 39°C. Hỏi giá trị tương ứng theo thang Kelvin là bao nhiêu?",
+      "images": [],
+      "formulaImages": [],
+      "answer": "312",
+      "answerRaw": "312",
+      "needsReview": false
+    },
+    {
+      "id": "short-012",
+      "srcNo": 12,
+      "topic": null,
+      "q": "Một động cơ hơi nước nhận 4.10⁵ J nhiệt lượng để thực hiện công 1,2.10⁵ J. Độ tăng nội năng của động cơ bằng x.105 J. Gía trị của x bằng bao nhiêu (làm tròn đến hàng phần mười)?",
+      "images": [],
+      "formulaImages": [],
+      "answer": "2.8",
+      "answerRaw": "2,8",
+      "needsReview": false
+    },
+    {
+      "id": "short-013",
+      "srcNo": 13,
+      "topic": null,
+      "q": "Ở nhiệt độ 270C, các phân tử oxygen chuyển động với tốc độ trung bình khoảng 500 m/s. Khối lượng của phân tử oxygen là 53,2.10-27 kg. Động năng trung bình của 1021 phân tử oxygen bằng bao nhiêu  (làm tròn đến hàng phần trăm)?",
+      "images": [],
+      "formulaImages": [],
+      "answer": "6.65",
+      "answerRaw": "6,65",
+      "needsReview": false
+    },
+    {
+      "id": "short-014",
+      "srcNo": 14,
+      "topic": null,
+      "q": "Một tấm nhôm có khối lượng 0,20 kg, ban đầu ở nhiệt độ 0°C, trượt xuống một mặt phẳng dài 15 m, nghiêng một góc 30° so với mặt phẳng nằm ngang. Lực ma sát trượt cân bằng với thành phần trọng lực dọc theo mặt phẳng nghiêng sao cho tấm nhôm sẽ trượt xuống với vận tốc không đổi. Nếu 90% cơ năng của hệ bị tiêu hao do nhôm hấp thụ thì nhiệt độ của nó ở chân mặt phẳng nghiêng là bao nhiêu độ celcius  (làm tròn đến hàng phần trăm)? Biết nhiệt dung riêng cho nhôm là 0,9 kJ/kgK. Lấy g = 9,81 m/s2.",
+      "images": [],
+      "formulaImages": [],
+      "answer": "0.07",
+      "answerRaw": "0,07",
+      "needsReview": false
+    },
+    {
+      "id": "short-015",
+      "srcNo": 15,
+      "topic": null,
+      "q": "Trong một thí nghiệm, người ta thả rơi tự do một mảnh thép từ độ cao 5.103 m, khi tới mặt đất nó có tốc độ 50 m/s. Cho biết nhiệt dung riêng của thép c = 0,460 kJ/kg.K và lấy g = 9,81 m/s2. Mảnh thép đã nóng thêm bao nhiêu độ khi chạm đất  (làm tròn đến hàng đơn vị), nếu cho rằng toàn bộ công cản của không khí chỉ dùng để làm nóng mảnh thép?",
+      "images": [],
+      "formulaImages": [],
+      "answer": "104",
+      "answerRaw": "104",
+      "needsReview": false
+    },
+    {
+      "id": "short-016",
+      "srcNo": 16,
+      "topic": null,
+      "q": "Một vật có khối lượng 1,00 kg trượt trên một mặt phẳng nghiêng dài 0,800 m đặt nghiêng 30,0°. Ở đỉnh của mặt phẳng nghiêng, vận tốc của vật bằng 0; trượt tới chân mặt phẳng nghiêng, tốc độ của vật đạt 1,10 m/s. Lấy g = 9,81 m/s2. Nhiệt lượng do vật toả ra do ma sát là bao nhiêu J  (làm tròn đến hàng phần trăm)?",
+      "images": [],
+      "formulaImages": [],
+      "answer": "3.32",
+      "answerRaw": "3,32",
+      "needsReview": false
+    },
+    {
+      "id": "short-017",
+      "srcNo": 17,
+      "topic": null,
+      "q": "Một người cọ xát một miếng sắt khối lượng 0,250 kg trên một sàn nhà. Sau một thời gian miếng sắt nóng thêm 120C. Tính công mà người này đã thực hiện theo đơn vị J (làm tròn đến hàng đơn vị). Giả sử rằng 40,0% công đó được dùng làm nóng miếng sắt. Biết nhiệt dung riêng của sắt là 0,460 kJ/(kg.K).",
+      "images": [],
+      "formulaImages": [],
+      "answer": "3450",
+      "answerRaw": "3450",
+      "needsReview": false
+    },
+    {
+      "id": "short-018",
+      "srcNo": 18,
+      "topic": null,
+      "q": "Một thợ rèn nhúng một con dao bằng thép có khối lượng 1,1 kg ở nhiệt độ 8500C vào trong bể nước lạnh để làm tăng độ cứng của lưỡi dao. Nước trong bể có thể tích là 50 lít và có nhiệt độ 270C. Bỏ qua sự truyền nhiệt cho thành bể và môi trường ngoài. Nhiệt dung riêng của thép là 460 J/kg.K của nước là 4200 J/kg.K khối lượng riêng của nước là 1 kg/lít. Nhiệt độ của nước khi có sự cân bằng nhiệt bằng bao nhiêu độ C (làm tròn đến hàng đơn vị)?.",
+      "images": [],
+      "formulaImages": [],
+      "answer": "29",
+      "answerRaw": "29",
+      "needsReview": false
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "source": "Ma trận + Đề cương KTGKI - Có đáp án.docx",
+  "subject": "Vật lí 12",
+  "duration_minutes": 50,
+  "scoring": {
+    "mcq_per_question": 0.25,
+    "short_per_question": 0.25,
+    "tf_by_correct_statements": {
+      "0": 0,
+      "1": 0.1,
+      "2": 0.25,
+      "3": 0.5,
+      "4": 1.0
+    }
+  },
+  "exam_structure": {
+    "part_1_mcq": {
+      "name": "Trắc nghiệm nhiều lựa chọn (Dạng thức 1)",
+      "num_questions": 18,
+      "levels": {
+        "nhan_biet": 12,
+        "thong_hieu": 4,
+        "van_dung": 2
+      },
+      "percentage": 45,
+      "score": "4.5 điểm (tương ứng 45% thang điểm 10)"
+    },
+    "part_2_tf": {
+      "name": "Trắc nghiệm đúng/sai (Dạng thức 2)",
+      "num_questions": 4,
+      "num_statements": 16,
+      "levels": {
+        "nhan_biet": 4,
+        "thong_hieu": 6,
+        "van_dung": 6
+      },
+      "percentage": 40,
+      "score": "4.0 điểm (tương ứng 40% thang điểm 10)"
+    },
+    "part_3_short": {
+      "name": "Trắc nghiệm trả lời ngắn (Dạng thức 3)",
+      "num_questions": 6,
+      "levels": {
+        "nhan_biet": 0,
+        "thong_hieu": 2,
+        "van_dung": 4
+      },
+      "percentage": 15,
+      "score": "1.5 điểm (tương ứng 15% thang điểm 10)"
+    },
+    "total": {
+      "num_questions": 28,
+      "num_commands": 40,
+      "percentage": 100,
+      "max_score": 10.0
+    }
+  },
+  "matrix_table": [
+    {
+      "topic": "Vật lí nhiệt",
+      "subtopics": [
+        {
+          "name": "Sự chuyển thể",
+          "dang_1": {
+            "biet": 3,
+            "hieu": 1,
+            "van_dung": 0,
+            "total": 4
+          },
+          "total_commands_in_row": 26,
+          "note": "4 (Dạng 1) + 16 (Dạng 2) + 6 (Dạng 3) = 26 lệnh hỏi trên hàng Sự chuyển thể trong bảng ma trận docx"
+        },
+        {
+          "name": "Nội năng, định luật 1 của nhiệt động lực học",
+          "dang_1": {
+            "biet": 2,
+            "hieu": 0,
+            "van_dung": 1,
+            "total": 3
+          }
+        },
+        {
+          "name": "Thang nhiệt độ, nhiệt kế",
+          "dang_1": {
+            "biet": 2,
+            "hieu": 1,
+            "van_dung": 0,
+            "total": 3
+          }
+        },
+        {
+          "name": "Nhiệt dung riêng, nhiệt nóng chảy riêng, nhiệt hóa hơi riêng",
+          "dang_1": {
+            "biet": 2,
+            "hieu": 1,
+            "van_dung": 1,
+            "total": 4
+          }
+        }
+      ],
+      "dang_1_total": 14,
+      "dang_2_commands": {
+        "biet": 4,
+        "hieu": 6,
+        "van_dung": 6,
+        "total": 16
+      },
+      "dang_3_commands": {
+        "biet": 0,
+        "hieu": 2,
+        "van_dung": 4,
+        "total": 6
+      },
+      "total_commands": 36
+    },
+    {
+      "topic": "Khí lí tưởng",
+      "subtopics": [
+        {
+          "name": "Mô hình động học phân tử chất khí",
+          "dang_1": {
+            "biet": 3,
+            "hieu": 1,
+            "van_dung": 0,
+            "total": 4
+          }
+        }
+      ],
+      "dang_1_total": 4,
+      "dang_2_commands": {
+        "biet": 0,
+        "hieu": 0,
+        "van_dung": 0,
+        "total": 0
+      },
+      "dang_3_commands": {
+        "biet": 0,
+        "hieu": 0,
+        "van_dung": 0,
+        "total": 0
+      },
+      "total_commands": 4
+    }
+  ],
+  "learning_outcomes_specification": [
+    {
+      "content": "Sự chuyển thể",
+      "requirements": "- Biết: Sử dụng mô hình động học phân tử, nêu được sơ lược cấu trúc của chất rắn, chất lỏng, chất khí.\n- Hiểu: Giải thích được sơ lược một số hiện tượng vật lí liên quan đến sự chuyển thể. sự nóng chảy, sự hoá hơi."
+    },
+    {
+      "content": "Nội năng, định luật 1 của nhiệt động lực học",
+      "requirements": "- Biết: Nêu được mối liên hệ nội năng của vật với năng lượng của các phân tử tạo nên vật, định luật 1 của nhiệt động lực học.\n- VD: Vận dụng được định luật 1 của nhiệt động lực học trong một số trường hợp đơn giản."
+    },
+    {
+      "content": "Thang nhiệt độ, nhiệt kế",
+      "requirements": "- Biết: Nêu được sự chênh lệch nhiệt độ giữa hai vật tiếp xúc nhau có thể cho ta biết chiều truyền năng lượng nhiệt giữa chúng; từ đó nêu được khi hai vật tiếp xúc với nhau, ở cùng nhiệt độ, sẽ không có sự truyền năng lượng nhiệt giữa chúng. Nêu được 1°C bằng 1/100 của khoảng cách giữa nhiệt độ tan chảy của nước tinh khiết đóng băng và nhiệt độ sôi của nước tinh khiết (ở áp suất tiêu chuẩn), 1 K bằng 1/(273,16) của khoảng cách giữa nhiệt độ không tuyệt đối và nhiệt độ điểm mà nước tinh khiết tồn tại đồng thời ở thể rắn, lỏng và hơi (ở áp suất tiêu chuẩn). Nêu được nhiệt độ không tuyệt đối là nhiệt độ mà tại đó tất cả các chất có động năng chuyển động nhiệt của các phân tử hoặc nguyên tử bằng không và thế năng của chúng là tối thiểu.\n- Hiểu: Chuyển đổi được nhiệt độ đo theo thang Celsius sang nhiệt độ đo theo thang Kelvin và ngược lại."
+    },
+    {
+      "content": "Nhiệt dung riêng, nhiệt nóng chảy riêng, nhiệt hoá hơi riêng",
+      "requirements": "- Biết: Nêu được định nghĩa nhiệt dung riêng, nhiệt nóng chảy riêng, nhiệt hoá hơi riêng.\n- Hiểu: Nêu được phương án hoặc lựa chọn phương án thí nghiệm đo được nhiệt dung riêng, nhiệt nóng chảy riêng, nhiệt hoá hơi riêng bằng dụng cụ thực hành.\n- VD: Vận dụng công thức tính nhiệt lượng trong các quá trình truyền nhiệt và biến thiên nội năng."
+    },
+    {
+      "content": "Mô hình động học phân tử chất khí",
+      "requirements": "- Biết: Nêu được các giả thuyết của thuyết động học phân tử chất khí.\n- Hiểu: Phân tích mô hình chuyển động Brown, nêu được các phân tử trong chất khí chuyển động hỗn loạn."
+    }
+  ]
+}
